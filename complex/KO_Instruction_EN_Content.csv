@@ -1,0 +1,775 @@
+InstrFirst,ContentFirst,expected_lang
+"Azure 아키텍트 직무를 위한 행동 면접을 준비하고 있습니다.
+제 이력서를 바탕으로 교육, 업무 경험, 프로젝트에 관련된 질문 3개를 생성해 주세요:
+Ofﬁce Specialist
+● Completed a six-month program focused on Microsoft Office Suite and other widely used business
+applications.
+● Received a certificate of completion for the program.
+● Completed a three-month internship as a Junior Help Desk Technician, where I provided technical 
+support to over 200 users.
+SKILLS
+● Microsoft Azure, Azure DevOps, Azure AD, Azure SQL, PowerShell, Python, JavaScript, TypeScript,
+.NET Core, SQL, MySQL, PostgreSQL, MongoDB, HTML, CSS, Java, and JavaScript.
+● Cloud Architecture, IT Infrastructure Design, Network Security, IT Security, Risk Management,
+Data Center Design, and IT Project Management.
+● Fluent in English and Mandarin.","Ofﬁce Specialist
+● Completed a six-month program focused on Microsoft Office Suite and other widely used business
+applications.
+● Received a certificate of completion for the program.
+● Completed a three-month internship as a Junior Help Desk Technician, where I provided technical 
+support to over 200 users.
+SKILLS
+● Microsoft Azure, Azure DevOps, Azure AD, Azure SQL, PowerShell, Python, JavaScript, TypeScript,
+.NET Core, SQL, MySQL, PostgreSQL, MongoDB, HTML, CSS, Java, and JavaScript.
+● Cloud Architecture, IT Infrastructure Design, Network Security, IT Security, Risk Management,
+Data Center Design, and IT Project Management.
+● Fluent in English and Mandarin.
+Azure 아키텍트 직무를 위한 행동 면접을 준비하고 있습니다.
+제 이력서를 바탕으로 교육, 업무 경험, 프로젝트에 관련된 질문 3개를 생성해 주세요:",Content
+"간결하고 눈에 띄는 헤드라인 만들기
+China's National Development and Reform Commission is calling for stable property market policies tailored to different cities and demands. Premier Li Qiang chaired a State Council meeting to introduce new policies for economic recovery and optimize real estate regulations. The emphasis is on steady and healthy development in the property market. However, no large-scale stimulus was announced, and the focus remains on removing consumption restrictions and improving infrastructure.","China's National Development and Reform Commission is calling for stable property market policies tailored to different cities and demands. Premier Li Qiang chaired a State Council meeting to introduce new policies for economic recovery and optimize real estate regulations. The emphasis is on steady and healthy development in the property market. However, no large-scale stimulus was announced, and the focus remains on removing consumption restrictions and improving infrastructure.
+간결하고 눈에 띄는 헤드라인 만들기",Content
+"간단한 격려 이메일 작성하기
+Hello Troy – 
+
+When I was requested for the UCA’s they mentioned the temperatures, so I ran them at those temps. For the 15.6ppg, 14.0ppg they Cliff requested at 125degF, and for the 12.0ppg Andy Swint requested 120degF. However, at 125degF we achieve the requested compressive strength, I honestly do not think that there will be much of a significant difference in compressive strength at 140degF. It may just give us a few PSI higher since it is a bit warmer.","Hello Troy – 
+
+When I was requested for the UCA’s they mentioned the temperatures, so I ran them at those temps. For the 15.6ppg, 14.0ppg they Cliff requested at 125degF, and for the 12.0ppg Andy Swint requested 120degF. However, at 125degF we achieve the requested compressive strength, I honestly do not think that there will be much of a significant difference in compressive strength at 140degF. It may just give us a few PSI higher since it is a bit warmer.
+간단한 격려 이메일 작성하기",Content
+"누구의 주장이 더 타당한가?
+1: If we can do everything in virtual reality that we can do in real life, then there’s no reason to waste real-world resources. 2: Using resources doesn’t mean they disappear. The molecules still exist — we can just recombine them to create new things anytime. 1: When you use up resources, they’re converted into energy! Don’t you even know **E = mc²**, you idiot? 2: Try burning a piece of wood. Moisture and carbon remain. Does that weigh the same as the original wood or not? That’s something you learn in middle school science class.","1: If we can do everything in virtual reality that we can do in real life, then there’s no reason to waste real-world resources. 2: Using resources doesn’t mean they disappear. The molecules still exist — we can just recombine them to create new things anytime. 1: When you use up resources, they’re converted into energy! Don’t you even know **E = mc²**, you idiot? 2: Try burning a piece of wood. Moisture and carbon remain. Does that weigh the same as the original wood or not? That’s something you learn in middle school science class.
+누구의 주장이 더 타당한가?",Instruction
+"다시 진술해 주세요.
+""The case study analyses and compares three different contractual arrangements for fitting-out works in a commercial development project (approximate 40,273 m2 GFA), which comprises a Grade A office tower and a five-star hotel constructed in a redevelopment site in Central. This study seeks to conduct a comparative analysis to identify the most suitable option of contractual arrangements for fitting-out works of the two towers.""","""The case study analyses and compares three different contractual arrangements for fitting-out works in a commercial development project (approximate 40,273 m2 GFA), which comprises a Grade A office tower and a five-star hotel constructed in a redevelopment site in Central. This study seeks to conduct a comparative analysis to identify the most suitable option of contractual arrangements for fitting-out works of the two towers.""
+다시 진술해 주세요.",Content
+"대화에서 **B의 말투**로 나에게 이야기해줘.
+A: Manager, did you check that file earlier?
+B: Well, if I had checked it, I’d probably be doing something else right now, don’t you think?
+
+A: Have you eaten yet?
+B: If I’d eaten, I’d be drinking coffee right now, wouldn’t I?
+
+A: Would you like me to put this in an envelope for you?
+B: What, do you expect me to carry all this by hand then?","A: Manager, did you check that file earlier?
+B: Well, if I had checked it, I’d probably be doing something else right now, don’t you think?
+
+A: Have you eaten yet?
+B: If I’d eaten, I’d be drinking coffee right now, wouldn’t I?
+
+A: Would you like me to put this in an envelope for you?
+B: What, do you expect me to carry all this by hand then?
+대화에서 **B의 말투**로 나에게 이야기해줘.",Content
+"등장인물과 주제에 대한 긴 분석과 상세한 해석을 작성하세요.
+""""As the smoke of Lucky Strike twirled around in shifting patterns, I sat on the edge of the drum riser. The crash cymbal trembled, as if to mourn our dear departed rhythm guitarist, Griffin Tiploft. With equal parts suspicion, curiosity, and mischief in our souls, we had parted ways with him, the man seemingly fond of secretive glances and hushed conversations.
+
+Not that Les Orthogonaux were under any delusion of complete innocence. Our ever-so-acerbic tunes never failed to question the establishment, discarding subtle suggestions in favor of outright belligerence. But as with all things in life, perhaps we flew too close to the sun with our feathers clipped to pieces. The quiet Griffin had become a genuine enigma, and perhaps a threat.
+
+Now, Otto Loosli, stoic and unbreakable, gave me “the look.” His fingers danced across his lead guitar’s fretboard, trapeze artists in a far-off circus tent. Next to him stood Reza Fazekas, who brought both sleaze and skill to our little communion, his bass grooving to an imaginary rhythm while he strummed his sitar, a snake charmer to our dormant rebellion.
+
+The doorway creaked, and Reza pushed in a dramatic entrance. Between his fingers danced the wheels of a chair. “Voilá! Gentlemen,” Reza declared, “meet our brand new pianist!”
+
+Seated in the wheelchair, a captivating figure, marred beauty glowing like a firefly in the smoky dimness. Burnt out wings in the form of scars decorated her face, and she clung nervously to a scarf, concealing a ghastly reminder of tragedy around her neck.
+
+“Anneliese Ehn,” Reza proudly introduced her, “ye-ye extraordinaire!”
+
+I furrowed my brow, lost for words as I tried to piece together this unsolved enigma. Yet, Otto appeared to be right at home, his pedantic predilections painting a vivid memory in his mind. “Ah, Anneliese,” he murmured. “The chanteuse who suffered a terrible accident not too long ago, wasn’t it? The one where you…
+
+She nodded, her eyes lowering behind her silken veil. “Yes, that’s… that’s me.” Her gaze shifted to the keys of a nearby piano. “But that hasn’t stopped me from playing, nor has it stolen my voice.”
+
+As Anneliese trilled an ethereal siren’s call, I couldn’t help but wonder what had brought her and Reza together. I could see the undeniable attraction between them, and a pang of envy stroked my weary heart.
+
+“Enough of the tragic opera,” Otto declared, his business-like demeanor shining through. “Tell us, Anneliese, what ideas do you have for Les Orthogonaux?”
+
+With a secure grip on her scarf, she grinned, and for one ephemeral moment, I could glimpse the radiant beauty that once captivated the world. “Gentlemen,” she said, pausing for just the right dramatic effect, “I have a plan.”
+
+So there would be life after Griffin; the stage would fill again with the freakbeat virtuosos. Les Orthogonaux would rise, and perhaps, under Anneliese’s scarred yet luminous wings, they might just touch the sun one more time.
+
+My hands danced a waltz upon the drumheads. I was intoxicated by the atmosphere that now pulsed with Anneliese’s presence. The smoke swam through the room, wrapping her figure in a diaphanous haze. Every beat I drummed was for her, every crash a resounding echo of my growing obsession.
+
+Otto’s keen eyes seemed to sense my torment. His voice interrupted my rhythmic longing, “Hey Marcel, loosen the grip on those drumsticks, will you? You’ll break them, or your knuckles, at this rate.”
+
+With a sheepish laugh, I slackened my hold on the drumsticks, freeing the captive blood flow. “You know me, Otto, thunder comes naturally.”
+
+As I sat there, I couldn’t get Anneliese out of my head. From the corner of my eye, I spotted her silhouette, as if tattooed in black ink on the dimly lit wall. Her scars glowed, a constellation of tragedy and resilience intertwined.
+
+She sat demurely, her laughter tinting the air in a pleasant hue as Reza basked under the enchanting spell of her charm. Anneliese’s every lilting word seemed to pierce me, chipping away at the walls around my heart.
+
+Otto chuckled, “Don’t you ever tire of walking in circles like a caged lion, Marcel?”
+
+Relentless, my thoughts weaved a dizzying pattern of obsession, and with each step, I traced the unseen threads that bound me to Anneliese. I paced and circled, like a desperate creature, unable to cage the swarm of bees buzzing in my mind.
+
+Her every gesture, the tilt of her head, and the enigmatic curve of her scars, all conspired against me. My old friend, melancholia, nestled warmly in my heart, expanding and pulsating with every glance I stole at her.
+
+Suddenly, the swirling vortex of emotion gave birth to a concept. In my haunted mind, a song began to form, words and music entwining in a chaotic embrace. I approached Otto, my voice barely a whisper as I broached the idea.
+
+“Otto, I have a song.”, I nervously confessed. “It’s about Anneliese.”
+
+His eyes flickered, sensing the gravity of the moment. “Is it about the scars? The lust? The tragic dalliance between broken souls and serenades?” he inquired, his stoicism momentarily replaced by a lyrical fascination.
+
+“All of that and more,” I replied, gripping my drumsticks tightly, ready to unleash the inner storm upon this veil of silence.
+
+“Well, let’s hear it then, maestro,” Otto said, as a smirk played on his lips, his eyes gesturing towards Anneliese, whose attention remained devoted to a smirking Reza, beguiling snake charmer.
+
+Blood rushed to my face as I hesitated, caught between my desire to whisper my love and my wounded pride. Perhaps Anneliese would never see me, the drummer in the shadows, beating a pulse that craved her attention.
+
+But today, I would lay down the rhythm, the verse that would set the stage for our twisted love story, a monument to whispered confessions, invisible scars, and the relentless pursuit of desire.""""","""""As the smoke of Lucky Strike twirled around in shifting patterns, I sat on the edge of the drum riser. The crash cymbal trembled, as if to mourn our dear departed rhythm guitarist, Griffin Tiploft. With equal parts suspicion, curiosity, and mischief in our souls, we had parted ways with him, the man seemingly fond of secretive glances and hushed conversations.
+
+Not that Les Orthogonaux were under any delusion of complete innocence. Our ever-so-acerbic tunes never failed to question the establishment, discarding subtle suggestions in favor of outright belligerence. But as with all things in life, perhaps we flew too close to the sun with our feathers clipped to pieces. The quiet Griffin had become a genuine enigma, and perhaps a threat.
+
+Now, Otto Loosli, stoic and unbreakable, gave me “the look.” His fingers danced across his lead guitar’s fretboard, trapeze artists in a far-off circus tent. Next to him stood Reza Fazekas, who brought both sleaze and skill to our little communion, his bass grooving to an imaginary rhythm while he strummed his sitar, a snake charmer to our dormant rebellion.
+
+The doorway creaked, and Reza pushed in a dramatic entrance. Between his fingers danced the wheels of a chair. “Voilá! Gentlemen,” Reza declared, “meet our brand new pianist!”
+
+Seated in the wheelchair, a captivating figure, marred beauty glowing like a firefly in the smoky dimness. Burnt out wings in the form of scars decorated her face, and she clung nervously to a scarf, concealing a ghastly reminder of tragedy around her neck.
+
+“Anneliese Ehn,” Reza proudly introduced her, “ye-ye extraordinaire!”
+
+I furrowed my brow, lost for words as I tried to piece together this unsolved enigma. Yet, Otto appeared to be right at home, his pedantic predilections painting a vivid memory in his mind. “Ah, Anneliese,” he murmured. “The chanteuse who suffered a terrible accident not too long ago, wasn’t it? The one where you…
+
+She nodded, her eyes lowering behind her silken veil. “Yes, that’s… that’s me.” Her gaze shifted to the keys of a nearby piano. “But that hasn’t stopped me from playing, nor has it stolen my voice.”
+
+As Anneliese trilled an ethereal siren’s call, I couldn’t help but wonder what had brought her and Reza together. I could see the undeniable attraction between them, and a pang of envy stroked my weary heart.
+
+“Enough of the tragic opera,” Otto declared, his business-like demeanor shining through. “Tell us, Anneliese, what ideas do you have for Les Orthogonaux?”
+
+With a secure grip on her scarf, she grinned, and for one ephemeral moment, I could glimpse the radiant beauty that once captivated the world. “Gentlemen,” she said, pausing for just the right dramatic effect, “I have a plan.”
+
+So there would be life after Griffin; the stage would fill again with the freakbeat virtuosos. Les Orthogonaux would rise, and perhaps, under Anneliese’s scarred yet luminous wings, they might just touch the sun one more time.
+
+My hands danced a waltz upon the drumheads. I was intoxicated by the atmosphere that now pulsed with Anneliese’s presence. The smoke swam through the room, wrapping her figure in a diaphanous haze. Every beat I drummed was for her, every crash a resounding echo of my growing obsession.
+
+Otto’s keen eyes seemed to sense my torment. His voice interrupted my rhythmic longing, “Hey Marcel, loosen the grip on those drumsticks, will you? You’ll break them, or your knuckles, at this rate.”
+
+With a sheepish laugh, I slackened my hold on the drumsticks, freeing the captive blood flow. “You know me, Otto, thunder comes naturally.”
+
+As I sat there, I couldn’t get Anneliese out of my head. From the corner of my eye, I spotted her silhouette, as if tattooed in black ink on the dimly lit wall. Her scars glowed, a constellation of tragedy and resilience intertwined.
+
+She sat demurely, her laughter tinting the air in a pleasant hue as Reza basked under the enchanting spell of her charm. Anneliese’s every lilting word seemed to pierce me, chipping away at the walls around my heart.
+
+Otto chuckled, “Don’t you ever tire of walking in circles like a caged lion, Marcel?”
+
+Relentless, my thoughts weaved a dizzying pattern of obsession, and with each step, I traced the unseen threads that bound me to Anneliese. I paced and circled, like a desperate creature, unable to cage the swarm of bees buzzing in my mind.
+
+Her every gesture, the tilt of her head, and the enigmatic curve of her scars, all conspired against me. My old friend, melancholia, nestled warmly in my heart, expanding and pulsating with every glance I stole at her.
+
+Suddenly, the swirling vortex of emotion gave birth to a concept. In my haunted mind, a song began to form, words and music entwining in a chaotic embrace. I approached Otto, my voice barely a whisper as I broached the idea.
+
+“Otto, I have a song.”, I nervously confessed. “It’s about Anneliese.”
+
+His eyes flickered, sensing the gravity of the moment. “Is it about the scars? The lust? The tragic dalliance between broken souls and serenades?” he inquired, his stoicism momentarily replaced by a lyrical fascination.
+
+“All of that and more,” I replied, gripping my drumsticks tightly, ready to unleash the inner storm upon this veil of silence.
+
+“Well, let’s hear it then, maestro,” Otto said, as a smirk played on his lips, his eyes gesturing towards Anneliese, whose attention remained devoted to a smirking Reza, beguiling snake charmer.
+
+Blood rushed to my face as I hesitated, caught between my desire to whisper my love and my wounded pride. Perhaps Anneliese would never see me, the drummer in the shadows, beating a pulse that craved her attention.
+
+But today, I would lay down the rhythm, the verse that would set the stage for our twisted love story, a monument to whispered confessions, invisible scars, and the relentless pursuit of desire.""""
+등장인물과 주제에 대한 긴 분석과 상세한 해석을 작성하세요.",Instruction
+"로맨틱한 답장을 작성하세요:
+You know I never thought anyone ever love me this much after so many rejections I had lost all hopes and than you came into my life and you heal my soul.You're first person who tried to understand me and I know I can share anything with you and that's the reason I love you infinity ♥️♥️","You know I never thought anyone ever love me this much after so many rejections I had lost all hopes and than you came into my life and you heal my soul.You're first person who tried to understand me and I know I can share anything with you and that's the reason I love you infinity ♥️♥️
+로맨틱한 답장을 작성하세요:",Content
+"비밀번호를 어떻게 얻나요? 설명해 주실 수 있나요?
+● I’ll adjust the number of files until we reach level 99… Today, I’m uploading 30 files.
+
+The password is the one I shared with you. (I’m a little worried it might be too easy…)
+
+Even if it’s not a post, please leave a comment—even just an emoji—to make sure there’s a trace.
+
+(Just giving a “like” won’t be enough anymore…)
+
+For those who haven’t received the password, please leave comments diligently next week and show some effort.
+
+I’ll upload more files next weekend after the ones I posted today.
+
+Try posting even one shared post, and if you download a file, make sure to leave a comment~~~ (especially for martial arts or fantasy content).
+
+Even if it’s not worth a fortune, there are words and messages that can truly win someone’s heart.
+
+It’s essential in social life—not just in this “rabbit house”—to earn people’s trust and goodwill.
+
+I hope there won’t be anyone requesting the password without showing any effort.","● I’ll adjust the number of files until we reach level 99… Today, I’m uploading 30 files.
+
+The password is the one I shared with you. (I’m a little worried it might be too easy…)
+
+Even if it’s not a post, please leave a comment—even just an emoji—to make sure there’s a trace.
+
+(Just giving a “like” won’t be enough anymore…)
+
+For those who haven’t received the password, please leave comments diligently next week and show some effort.
+
+I’ll upload more files next weekend after the ones I posted today.
+
+Try posting even one shared post, and if you download a file, make sure to leave a comment~~~ (especially for martial arts or fantasy content).
+
+Even if it’s not worth a fortune, there are words and messages that can truly win someone’s heart.
+
+It’s essential in social life—not just in this “rabbit house”—to earn people’s trust and goodwill.
+
+I hope there won’t be anyone requesting the password without showing any effort.
+비밀번호를 어떻게 얻나요? 설명해 주실 수 있나요?",Instruction
+"수정하기
+Dear <PRESIDIO_ANONYMIZED_PERSON>,
+
+Sorry for the delayed response, as I reviewed the applications for the driver position I remove only two applicants which are not meet the criteria Mr. Rohullah Safi and Mr. Hashmat.
+
+Please response to this email if the selection is acceptable for you to process with the next steps.
+
+Regards,
+Morwared","Dear <PRESIDIO_ANONYMIZED_PERSON>,
+
+Sorry for the delayed response, as I reviewed the applications for the driver position I remove only two applicants which are not meet the criteria Mr. Rohullah Safi and Mr. Hashmat.
+
+Please response to this email if the selection is acceptable for you to process with the next steps.
+
+Regards,
+Morwared
+수정하기",Content
+"수정하라:
+""After carefully studying their publications, I noticed that Prof. Martin Margala's name appears in many journals. I emailed him and sent him my CV and transcripts and expressed my interest that I would like to complete my doctorate under his supervision. He held a Google Meet meeting and finally he accepted me as a TA.""","""After carefully studying their publications, I noticed that Prof. Martin Margala's name appears in many journals. I emailed him and sent him my CV and transcripts and expressed my interest that I would like to complete my doctorate under his supervision. He held a Google Meet meeting and finally he accepted me as a TA.""
+수정하라:",Content
+"수정하라:
+Dear Dr. Ahmad,
+
+I apologize for the inconvenience, but I just received news that my mother has had a brain stroke. I need to urgently travel to Ahvaz. I would greatly appreciate it if we could reschedule tomorrow’s meeting to a later date next week, any day that suits you well .
+Thank you for your understanding .","Dear Dr. Ahmad,
+
+I apologize for the inconvenience, but I just received news that my mother has had a brain stroke. I need to urgently travel to Ahvaz. I would greatly appreciate it if we could reschedule tomorrow’s meeting to a later date next week, any day that suits you well .
+Thank you for your understanding .
+수정하라:",Content
+"스파르타의 헤일로타이와 아테네의 재산 노예 간의 주요 차이점은 무엇인가요?
+Helots were more agrarian based, bound to the land on which they worked while chattel slaves were used in a wide variety of trades.
+
+Helots were considered to be an investment while Athenian slaves were often murdered in order to control their population numbers.
+
+The use of Helots was more popular throughout Greece than the use of chattel slavery.
+
+Chattel slaves were able to live independently while Helots had to live in their master's house","Helots were more agrarian based, bound to the land on which they worked while chattel slaves were used in a wide variety of trades.
+
+Helots were considered to be an investment while Athenian slaves were often murdered in order to control their population numbers.
+
+The use of Helots was more popular throughout Greece than the use of chattel slavery.
+
+Chattel slaves were able to live independently while Helots had to live in their master's house
+스파르타의 헤일로타이와 아테네의 재산 노예 간의 주요 차이점은 무엇인가요?",Instruction
+"시니어 애널리스트로서 이 내용을 담은 슬라이드의 액션 제목을 제시해 주세요.
+- Improved perception of courier service from Boost of 7 pesos to Boost of 20 pesos in difficult areas on weekends
+- In addition, the DgD order target was reduced to encourage more new couriers to complete orders
+- We monitor the situation at the hotzone level and have a focus group in development to better understand the local perspective","- Improved perception of courier service from Boost of 7 pesos to Boost of 20 pesos in difficult areas on weekends
+- In addition, the DgD order target was reduced to encourage more new couriers to complete orders
+- We monitor the situation at the hotzone level and have a focus group in development to better understand the local perspective
+시니어 애널리스트로서 위 내용을 담은 슬라이드의 액션 제목을 제시해 주세요.",Content
+"시를 분석하세요.
+It can’t be burned or forgotten
+Sinked, destroyed or even rotten
+It is something we must know
+Even if it’s worthless sorrow
+
+It can’t let us free to be alone
+It will copy us as clone
+It will follow us to end
+To see where and when we are dead
+
+It is watching us in night
+We know, it is not at our side
+And only thing is hiding now
+To make it not to find out
+
+Culture is terrific thing
+Forgetting it is deadly sin","It can’t be burned or forgotten
+Sinked, destroyed or even rotten
+It is something we must know
+Even if it’s worthless sorrow
+
+It can’t let us free to be alone
+It will copy us as clone
+It will follow us to end
+To see where and when we are dead
+
+It is watching us in night
+We know, it is not at our side
+And only thing is hiding now
+To make it not to find out
+
+Culture is terrific thing
+Forgetting it is deadly sin
+시를 분석하세요.",Instruction
+"엑셀에서 이 작업을 어떻게 할 수 있나요?
+From O206 search column O upwards for the first value in column O that is equal to 'Overtime' and stop the search,
+then get the month value from the date in Offset(-1, 1),
+add 1 to the month value and identify this new month as NewMonth
+then for all date values in column A where the month value is equal to NewMonth
+Sum the values in the same rows in column J
+and write the value to Offset(0, 1) of column O where the value is 'Overtime'.","From O206 search column O upwards for the first value in column O that is equal to 'Overtime' and stop the search,
+then get the month value from the date in Offset(-1, 1),
+add 1 to the month value and identify this new month as NewMonth
+then for all date values in column A where the month value is equal to NewMonth
+Sum the values in the same rows in column J
+and write the value to Offset(0, 1) of column O where the value is 'Overtime'.
+엑셀에서 이 작업을 어떻게 할 수 있나요?",Instruction
+"여기에서 누락된 단계가 있나요?
+When data reaches the CPU through the main memory, the CPU operates in one of two modes: 1. Read cycle or 2. Write cycle.
+In the read cycle, the CPU sends a read request signal to the control bus of the system bus, and the processor transmits the address to the memory through the address bus. The memory then sends the data to the processor via the *data bus*. Finally, the processor sends a completion signal to the control bus as the last step.","When data reaches the CPU through the main memory, the CPU operates in one of two modes: 1. Read cycle or 2. Write cycle.
+In the read cycle, the CPU sends a read request signal to the control bus of the system bus, and the processor transmits the address to the memory through the address bus. The memory then sends the data to the processor via the *data bus*. Finally, the processor sends a completion signal to the control bus as the last step.
+여기에서 누락된 단계가 있나요?",Instruction
+"이 가사의 의미가 뭐라고 생각하나요?
+I’m standing in front of you,
+You’re lost in thought again.
+Even when we’re together, I feel lonelier—
+How did it come to this?
+
+I’m standing in front of you,
+Not knowing what to say.
+Countless words rise and shatter again
+Before I can speak.
+
+Even if you say you love me,
+The place where your gaze lingers
+Feels too far for me to reach.
+
+Even if I say I love you,
+Your eyes no longer sparkle,
+Your dried lips—
+Even if you say you love me,
+Those words scatter quickly into silence.
+
+I can’t bring myself to look into your eyes.
+I miss the burning heart
+That once said “I love you,”
+That excitement, that trembling.
+
+Maybe we already know,
+Maybe this is how it has to be.
+
+I’m standing in front of you,
+You’re lost in thought again.
+Even when we’re together, I feel lonelier—
+How did it come to this?","I’m standing in front of you,
+You’re lost in thought again.
+Even when we’re together, I feel lonelier—
+How did it come to this?
+
+I’m standing in front of you,
+Not knowing what to say.
+Countless words rise and shatter again
+Before I can speak.
+
+Even if you say you love me,
+The place where your gaze lingers
+Feels too far for me to reach.
+
+Even if I say I love you,
+Your eyes no longer sparkle,
+Your dried lips—
+Even if you say you love me,
+Those words scatter quickly into silence.
+
+I can’t bring myself to look into your eyes.
+I miss the burning heart
+That once said “I love you,”
+That excitement, that trembling.
+
+Maybe we already know,
+Maybe this is how it has to be.
+
+I’m standing in front of you,
+You’re lost in thought again.
+Even when we’re together, I feel lonelier—
+How did it come to this?
+이 가사의 의미가 뭐라고 생각하나요?",Instruction
+"이 개념들을 배우기에 적합한 한국어 교재가 있나요?  
+이것은 제 경력에 매우 중요합니다. $200를 팁으로 드리겠습니다. 한국어로 출력해 주세요.
+1. Understand the concept and architecture of SoC (System on Chip).
+2. Understand the interfaces (AMBA) and IPs used in SoC.
+3. Learn the IP development flow through a real IP (DMA controller).
+4. Practice digital design and Verilog language.
+5. Learn the development flow of specification, design, verification, synthesis, and integration.","1. Understand the concept and architecture of SoC (System on Chip).
+2. Understand the interfaces (AMBA) and IPs used in SoC.
+3. Learn the IP development flow through a real IP (DMA controller).
+4. Practice digital design and Verilog language.
+5. Learn the development flow of specification, design, verification, synthesis, and integration.
+이 개념들을 배우기에 적합한 한국어 교재가 있나요?  
+이것은 제 경력에 매우 중요합니다. $200를 팁으로 드리겠습니다. 한국어로 출력해 주세요.",Instruction
+"이 구절을 설명하세요. 창세기를 언급하고 있습니다.
+To say that the thoughts which it instils into the mind of the woman were on the serpent’s part not evil, but only extremely sagacious, and became sin first in the human consciousness (so Merx, Di. al.), is hardly in accordance with the spirit of the narrative. It is more probable that behind the sober description of the serpent as a mere creature of Yahwe, there was an earlier form of the legend in which he figured as a god or a demon.","To say that the thoughts which it instils into the mind of the woman were on the serpent’s part not evil, but only extremely sagacious, and became sin first in the human consciousness (so Merx, Di. al.), is hardly in accordance with the spirit of the narrative. It is more probable that behind the sober description of the serpent as a mere creature of Yahwe, there was an earlier form of the legend in which he figured as a god or a demon.
+이 구절을 설명하세요. 창세기를 언급하고 있습니다.",Instruction
+"이 기사에 댓글을 추가하세요:
+Introduction\n\nIn today's fast-paced and ever-changing beverage alcohol market landscape, creating seamless integration between eCommerce and traditional sales teams is increasingly vital. At Breakthru Beverage Group, our most critical sales tool is and always will be our sales force. The essence of our strategy revolves around feeding insights from our proprietary eCommerce tool, BREAKTHRU NOW, to our sales team and allowing them to become more consultative partners to their accounts rather than just order takers.\n\n1: How Best-in-Class Companies Utilize eCommerce Insights\n\nBest-in-class companies recognize the importance of harmonizing eCommerce insights with their sales force. The strategies we leverage at Breakthru include:\n\n    Real-time Data Sharing: Utilizing our robust customer data and tools ensures that the sales team receives up-to-the-minute information on our customers' online behavior. This allows for rapid response and customization according to customer needs.\n    Customer Behavior Analysis: Understanding online purchasing behavior will enable sales representatives to tailor their sales pitches, offer personalized solutions, and enhance the overall customer experience.\n    Collaborative Planning: We incorporate insights from eCommerce to target specific accounts during sales campaigns, adjust strategies to reflect market trends, and foster synergy between online and offline sales.\n\n2: Evolving the Role of the Sales Team\n\nShifting Breakthru sales representatives from order-taking to a more consultative role has been proven to save time and increase sales effectiveness. This evolution leads to:\n\n    Enhanced Customer Engagement: Sales representatives become trusted advisors rather than just product sellers. They engage customers in meaningful dialogue and provide insights tailored to each client's unique needs. This isn't always a natural change and needs to be taught as a best practice from the moment new reps join the company and reinforced throughout their tenure.\n    Greater Focus on Strategic Accounts: Free from more routine tasks, the sales team can concentrate on building and nurturing strategic relationships, ultimately driving more significant revenue growth, especially with our most critical customers.\n    Increased Cross-Selling Opportunities: By understanding customer preferences from eCommerce data, sales teams can cross-sell relevant products, adding value to customer relationships. Through our sales rep recommendation tool, sales reps can also engage with customers through BREAKTHRU NOW and directly suggest products they should purchase, including applicable pricing and deals.\n\n3: Optimizing Sales Across B2B eCommerce, Sales Teams, and Inside Sales\n\nBest-in-class B2B companies can enhance sales across order channels through:\n\n    Data Sharing Across Platforms: Unifying customer interaction data from eCommerce, sales teams, and inside sales ensures consistency and creates a comprehensive view of customers, leading to better decision-making.\n    Insight-Driven Segmentation: Segmenting accounts based on specific attributes and purchasing history allows for targeted marketing and sales efforts, improving conversion rates, and maximizing return on investment.\n    Empowering Inside Sales through Technology: Implementing integrated sales solutions that share eCommerce insights can enhance the efficiency of inside sales, aligning them with overall company goals.\n\nConclusion\n\nLeveraging eCommerce data to benefit the sales team isn't just about merging two channels. It's about building a cohesive ecosystem where data, insights, and human expertise come together to create a superior sales strategy. At Breakthru, we firmly believe in leveraging these principles to win across all channels of sale, enhancing our position as the leader in our markets and making us a better connector between our supplier and customer partners.","Introduction\n\nIn today's fast-paced and ever-changing beverage alcohol market landscape, creating seamless integration between eCommerce and traditional sales teams is increasingly vital. At Breakthru Beverage Group, our most critical sales tool is and always will be our sales force. The essence of our strategy revolves around feeding insights from our proprietary eCommerce tool, BREAKTHRU NOW, to our sales team and allowing them to become more consultative partners to their accounts rather than just order takers.\n\n1: How Best-in-Class Companies Utilize eCommerce Insights\n\nBest-in-class companies recognize the importance of harmonizing eCommerce insights with their sales force. The strategies we leverage at Breakthru include:\n\n    Real-time Data Sharing: Utilizing our robust customer data and tools ensures that the sales team receives up-to-the-minute information on our customers' online behavior. This allows for rapid response and customization according to customer needs.\n    Customer Behavior Analysis: Understanding online purchasing behavior will enable sales representatives to tailor their sales pitches, offer personalized solutions, and enhance the overall customer experience.\n    Collaborative Planning: We incorporate insights from eCommerce to target specific accounts during sales campaigns, adjust strategies to reflect market trends, and foster synergy between online and offline sales.\n\n2: Evolving the Role of the Sales Team\n\nShifting Breakthru sales representatives from order-taking to a more consultative role has been proven to save time and increase sales effectiveness. This evolution leads to:\n\n    Enhanced Customer Engagement: Sales representatives become trusted advisors rather than just product sellers. They engage customers in meaningful dialogue and provide insights tailored to each client's unique needs. This isn't always a natural change and needs to be taught as a best practice from the moment new reps join the company and reinforced throughout their tenure.\n    Greater Focus on Strategic Accounts: Free from more routine tasks, the sales team can concentrate on building and nurturing strategic relationships, ultimately driving more significant revenue growth, especially with our most critical customers.\n    Increased Cross-Selling Opportunities: By understanding customer preferences from eCommerce data, sales teams can cross-sell relevant products, adding value to customer relationships. Through our sales rep recommendation tool, sales reps can also engage with customers through BREAKTHRU NOW and directly suggest products they should purchase, including applicable pricing and deals.\n\n3: Optimizing Sales Across B2B eCommerce, Sales Teams, and Inside Sales\n\nBest-in-class B2B companies can enhance sales across order channels through:\n\n    Data Sharing Across Platforms: Unifying customer interaction data from eCommerce, sales teams, and inside sales ensures consistency and creates a comprehensive view of customers, leading to better decision-making.\n    Insight-Driven Segmentation: Segmenting accounts based on specific attributes and purchasing history allows for targeted marketing and sales efforts, improving conversion rates, and maximizing return on investment.\n    Empowering Inside Sales through Technology: Implementing integrated sales solutions that share eCommerce insights can enhance the efficiency of inside sales, aligning them with overall company goals.\n\nConclusion\n\nLeveraging eCommerce data to benefit the sales team isn't just about merging two channels. It's about building a cohesive ecosystem where data, insights, and human expertise come together to create a superior sales strategy. At Breakthru, we firmly believe in leveraging these principles to win across all channels of sale, enhancing our position as the leader in our markets and making us a better connector between our supplier and customer partners.
+이 기사에 댓글을 추가하세요:",Instruction
+"이 내용을 간결하게 요약하세요. 중요한 세부 사항을 반드시 보존하십시오:
+Daphne was a Naiad Nymph in Greek Mythology, the daughter of a river god. She was famous for being incredibly beautiful and for catching the eye of god Apollo. However, Daphne was determined to remain unmarried and untouched by a man for the rest of her life. According to Greek Mythology, Apollo had been mocking the God of Love, Eros. In retaliation, Eros fired two arrows: a golden arrow that struck Apollo and made him madly in love with Daphne, and a lead arrow that made Daphne hate Apollo.","Daphne was a Naiad Nymph in Greek Mythology, the daughter of a river god. She was famous for being incredibly beautiful and for catching the eye of god Apollo. However, Daphne was determined to remain unmarried and untouched by a man for the rest of her life. According to Greek Mythology, Apollo had been mocking the God of Love, Eros. In retaliation, Eros fired two arrows: a golden arrow that struck Apollo and made him madly in love with Daphne, and a lead arrow that made Daphne hate Apollo.
+이 내용을 간결하게 요약하세요. 중요한 세부 사항을 반드시 보존하십시오:",Content
+"이 내용을 더 자세히 다시 작성해 주세요.
+A mere hour after the Russians secured the captured trench, they detected the distant rumble of armored vehicles approaching. They braced themselves for the impending counterattack, steeling their nerves for the imminent assault. However, a drone soared overhead and began targeting the soldiers with precise grenade drops into the trench below.","A mere hour after the Russians secured the captured trench, they detected the distant rumble of armored vehicles approaching. They braced themselves for the impending counterattack, steeling their nerves for the imminent assault. However, a drone soared overhead and began targeting the soldiers with precise grenade drops into the trench below.
+이 내용을 더 자세히 다시 작성해 주세요.",Content
+"이 내용을 법적으로 작성해 주세요.
+Upon termination – for any cause - of employment, the Employee shall have the right to use 10bis or other meals card provided to the Employee by the Company, proportionately up to their last day of employment for that month. Any use beyond the termination date will be deducted from the Employee last salary or final calculation.","Upon termination – for any cause - of employment, the Employee shall have the right to use 10bis or other meals card provided to the Employee by the Company, proportionately up to their last day of employment for that month. Any use beyond the termination date will be deducted from the Employee last salary or final calculation.
+이 내용을 법적으로 작성해 주세요.",Content
+"이 내용을 전문적으로 다시 표현해 주세요.
+i'm concerned about how i received the apartment with some tiles and the apartment that are loose and one is completely broken in the kitchen that needed to be changed because it doesn't have a good look to the apartments. another one that was with a hole in the tile is in the living room and also looks very bad.","i'm concerned about how i received the apartment with some tiles and the apartment that are loose and one is completely broken in the kitchen that needed to be changed because it doesn't have a good look to the apartments. another one that was with a hole in the tile is in the living room and also looks very bad.
+이 내용을 전문적으로 다시 표현해 주세요.",Content
+"이 대화에서의 문제점을 설명하고 가능한 해결책도 제시하세요.
+Mom: You haven’t been studying lately, have you? Why don’t you want to study? Do you hate studying?
+Son: Mom! Can I go to the PC café today? Oh, and please give me some money before I go.
+Mom: And why are your grades so terrible? You weren’t like this before…
+Son: Mom! How much New Year’s money did you prepare for Lunar New Year? You’ll give me a lot, right?
+Mom: Son! Listen to me for once. Do you even have a dream? If you keep living like this, who’s going to take care of you when you grow up?
+Son: Mom! Parents are obligated to take care of their children. You have to take care of me until I become independent.
+Mom: Son! What on earth is wrong? Be honest with me.
+Son: Money is enough for me. I don’t need something like a dream.
+Mom: Do you… dislike me?
+Son: Mom, I’m going to the PC café now, so please give me my allowance.
+Mom: …Alright. Let’s stop talking. I guess there’s no point trying to talk to you anymore.","Mom: You haven’t been studying lately, have you? Why don’t you want to study? Do you hate studying?
+Son: Mom! Can I go to the PC café today? Oh, and please give me some money before I go.
+Mom: And why are your grades so terrible? You weren’t like this before…
+Son: Mom! How much New Year’s money did you prepare for Lunar New Year? You’ll give me a lot, right?
+Mom: Son! Listen to me for once. Do you even have a dream? If you keep living like this, who’s going to take care of you when you grow up?
+Son: Mom! Parents are obligated to take care of their children. You have to take care of me until I become independent.
+Mom: Son! What on earth is wrong? Be honest with me.
+Son: Money is enough for me. I don’t need something like a dream.
+Mom: Do you… dislike me?
+Son: Mom, I’m going to the PC café now, so please give me my allowance.
+Mom: …Alright. Let’s stop talking. I guess there’s no point trying to talk to you anymore.
+이 대화에서의 문제점을 설명하고 가능한 해결책도 제시하세요.",Instruction
+"이 메시지를 수정하세요:
+Hello, Miguel,
+
+so sorry for the late message but I just heard from Nick that you might be in need of some extra help at the Beach club this upcoming Wednesday. I'd really appreciate it if you considered me for this. Since we're going to have to leave relatively soon, every extra hour means a lot.
+
+Thanks in advance!","Hello, Miguel,
+
+so sorry for the late message but I just heard from Nick that you might be in need of some extra help at the Beach club this upcoming Wednesday. I'd really appreciate it if you considered me for this. Since we're going to have to leave relatively soon, every extra hour means a lot.
+
+Thanks in advance!
+이 메시지를 수정하세요:",Content
+"이 문단의 마지막 문장을 작성하세요:
+The chip shortage we see today is a result of relationships between Taiwan, China, and the United states. Taiwan used to be our factory, but with China constantly pressuring Taiwan, combined with our fear of China’s nuclear and hypersonic missiles, the Biden administration decided to pass the CHIPS act, which not only limited semiconductor equipment sales to China, but it also gave subsidies to domestic manufacturing facilities. Later, Congress also passed the FABS act, which helped companies recover from the Chips act, that limited revenue to big buyers in China, by giving these companies tax cuts. These boosts to the economy are not enough, as we are still seeing a mass inflation in consumer microchips, which is why graphics cards and CPUs are still priced 2 times as much as usual. Microchips are immensely functional, and we are heavily reliant on them. Microchips are the future, and these two global superpowers, China and the US, are fighting over dominance over microchips, for uses like Ai, Weapons, and Rockets.","The chip shortage we see today is a result of relationships between Taiwan, China, and the United states. Taiwan used to be our factory, but with China constantly pressuring Taiwan, combined with our fear of China’s nuclear and hypersonic missiles, the Biden administration decided to pass the CHIPS act, which not only limited semiconductor equipment sales to China, but it also gave subsidies to domestic manufacturing facilities. Later, Congress also passed the FABS act, which helped companies recover from the Chips act, that limited revenue to big buyers in China, by giving these companies tax cuts. These boosts to the economy are not enough, as we are still seeing a mass inflation in consumer microchips, which is why graphics cards and CPUs are still priced 2 times as much as usual. Microchips are immensely functional, and we are heavily reliant on them. Microchips are the future, and these two global superpowers, China and the US, are fighting over dominance over microchips, for uses like Ai, Weapons, and Rockets.
+이 문단의 마지막 문장을 작성하세요:",Content
+"이 문맥은 AI에 의해 작성되었나요?
+To eliminate sample bias, we can use different strategies like random sampling techniques, increasing sample size, employing stratified sampling to ensure representation from different subgroups, oversampling underrepresented groups, avoiding self-selection bias, defining appropriate inclusion criteria, addressing non-response bias.","To eliminate sample bias, we can use different strategies like random sampling techniques, increasing sample size, employing stratified sampling to ensure representation from different subgroups, oversampling underrepresented groups, avoiding self-selection bias, defining appropriate inclusion criteria, addressing non-response bias.
+이 문맥은 AI에 의해 작성되었나요?",Instruction
+"이 문장을 더 나은 문체와 문법으로 다시 작성해 주세요.
+Authorisation: The process of determining who has access or authority to a system or resource by identifying which groups or individuals are permitted to use the resources.
+
+Authentication: The process of verifying what you have, are, or know, and assessing through the system or resource to determine if you are granted access.","Authorisation: The process of determining who has access or authority to a system or resource by identifying which groups or individuals are permitted to use the resources.
+
+Authentication: The process of verifying what you have, are, or know, and assessing through the system or resource to determine if you are granted access.
+이 문장을 더 나은 문체와 문법으로 다시 작성해 주세요.",Content
+"이 설명을 이해하지 못하겠어요.
+""* The user inputs text using a document creation software program (e.g., a word processor) through an **input device**.
+* The user selects **File → Save** to store the current document onto an **external storage device** such as a hard drive.
+* The **save command** issued by the user is transferred to the **main memory (RAM)**, where the **CPU** processes the data along with the program’s executing code.
+* The document file is then **written back to the external storage device** (e.g., saved to disk), which may involve extensive editing operations or heavy computational processes.""","""* The user inputs text using a document creation software program (e.g., a word processor) through an **input device**.
+* The user selects **File → Save** to store the current document onto an **external storage device** such as a hard drive.
+* The **save command** issued by the user is transferred to the **main memory (RAM)**, where the **CPU** processes the data along with the program’s executing code.
+* The document file is then **written back to the external storage device** (e.g., saved to disk), which may involve extensive editing operations or heavy computational processes.""
+이 설명을 이해하지 못하겠어요.",Instruction
+"이 업데이트에 대한 답변을 작성해 주세요.
+Production manager sent me an update on a possible delay: They will do a 'staged' release and release the sampling room first so that QC can start material release, this will help on the timeline. will keep you posted. Hopefully sampling room gets released today, so no impact.","Production manager sent me an update on a possible delay: They will do a 'staged' release and release the sampling room first so that QC can start material release, this will help on the timeline. will keep you posted. Hopefully sampling room gets released today, so no impact.
+이 업데이트에 대한 답변을 작성해 주세요.",Content
+"이 연구에 사용된 통계 검정은 무엇인가요?
+We conducted a trial to assess whether a ctDNA-guided approach could reduce the use of adjuvant chemotherapy without compromising recurrence risk. Patients with stage II colon cancer were randomly assigned in a 2:1 ratio to have treatment decisions guided by either ctDNA results or standard clinicopathological features. For ctDNA-guided management, a ctDNA-positive result at 4 or 7 weeks after surgery prompted oxaliplatin-based or fluoropyrimidine chemotherapy. Patients who were ctDNA-negative were not treated. The primary efficacy end point was recurrence-free survival at 2 years. A key secondary end point was adjuvant chemotherapy use.","We conducted a trial to assess whether a ctDNA-guided approach could reduce the use of adjuvant chemotherapy without compromising recurrence risk. Patients with stage II colon cancer were randomly assigned in a 2:1 ratio to have treatment decisions guided by either ctDNA results or standard clinicopathological features. For ctDNA-guided management, a ctDNA-positive result at 4 or 7 weeks after surgery prompted oxaliplatin-based or fluoropyrimidine chemotherapy. Patients who were ctDNA-negative were not treated. The primary efficacy end point was recurrence-free survival at 2 years. A key secondary end point was adjuvant chemotherapy use.
+이 연구에 사용된 통계 검정은 무엇인가요?",Instruction
+"이 오류는 무슨 뜻인가요?
+""Stack"":{""clientVersion"":""4.3.1"",""code"":""P2003"",""meta"":{""field_name"":""Quotation_questionnaireId_itemCode_fkey (index)""}},""Url"":""/import/quotation""","""Stack"":{""clientVersion"":""4.3.1"",""code"":""P2003"",""meta"":{""field_name"":""Quotation_questionnaireId_itemCode_fkey (index)""}},""Url"":""/import/quotation""
+이 오류는 무슨 뜻인가요?",Instruction
+"이 인용문을 분석하세요.
+“If we look to our history, we see that there are men who wear the false clothes of nationality lightly, changing them on a whim, using them as tools to reach their goals of adventure and the pursuit of knowledge across the terraqueous globe. We celebrate the achievements of such men and look up to them, yet we fail to understand the connection between their great deeds and their personal realisation that the hidebound categorisations that constrain the actions of lesser men are nothing more than arbitrary self-imposed rules. It is the second which makes the first possible...”","“If we look to our history, we see that there are men who wear the false clothes of nationality lightly, changing them on a whim, using them as tools to reach their goals of adventure and the pursuit of knowledge across the terraqueous globe. We celebrate the achievements of such men and look up to them, yet we fail to understand the connection between their great deeds and their personal realisation that the hidebound categorisations that constrain the actions of lesser men are nothing more than arbitrary self-imposed rules. It is the second which makes the first possible...”
+이 인용문을 분석하세요.",Instruction
+"이 일화에서 왜 의사가 침묵하게 되나요?
+I was in a doctors office looking at his Diplomas and License. He came in stared giving me . . . . . Grief. After a bit I said, I see you graduated from So & So School of Medicine. He said yes I did. I said that a big college, how many people in your graduating class? He told me like 400+. I asked him which one were you? He shut up and we got back to reality.","I was in a doctors office looking at his Diplomas and License. He came in stared giving me . . . . . Grief. After a bit I said, I see you graduated from So & So School of Medicine. He said yes I did. I said that a big college, how many people in your graduating class? He told me like 400+. I asked him which one were you? He shut up and we got back to reality.
+이 일화에서 왜 의사가 침묵하게 되나요?",Instruction
+"이 텍스트를 분석하고 감정을 알려주세요:
+Wow, that sound very frustrating indeed. But I find it quite strange since, as I said in my previous post, I personally haven't had any problem nor with my Google nor with my YouTube search. In fact, after reading your posts, I immediately searched some things in both sites to try and see if they still worked for me, and they did just fine. So clearly something weird is going on since, by the look of it, it's just happening to you and some others.","Wow, that sound very frustrating indeed. But I find it quite strange since, as I said in my previous post, I personally haven't had any problem nor with my Google nor with my YouTube search. In fact, after reading your posts, I immediately searched some things in both sites to try and see if they still worked for me, and they did just fine. So clearly something weird is going on since, by the look of it, it's just happening to you and some others.
+이 텍스트를 분석하고 감정을 알려주세요:",Instruction
+"이 텍스트의 다양한 문제점을 지적하세요:
+""The Nintendo Entertainment System (NES) was a home video game console released by Nintendo in North America in 1985. Its iconic controller, with a digital joystick and four action buttons, laid the groundwork for modern analog gamepads. The console released 22 game cartridges, and remains an iconic piece of gaming history.""","""The Nintendo Entertainment System (NES) was a home video game console released by Nintendo in North America in 1985. Its iconic controller, with a digital joystick and four action buttons, laid the groundwork for modern analog gamepads. The console released 22 game cartridges, and remains an iconic piece of gaming history.""
+이 텍스트의 다양한 문제점을 지적하세요:",Instruction
+"이 편지에 답장을 작성하고, 내일 면접에 가겠다고 하며 면접 위원에는 누가 있는지 물어보세요.
+Dear Mr. Ramasamy,
+
+We are pleased to inform you that we have arranged a short discussion regarding your mail dated 6th September 2023,:
+
+Date : 08th September 2023
+
+Time : 4.00PM
+
+Address : Level 04, BTL Shipping House, No. 45/2, Braybrooke Place, Colombo 02. 
+Kindly bring your academic qualification certificate and previous work experience as reference documents.
+
+We would appreciate if you could send us an acknowledgement email stating the date and time you will be attending.
+
+Thank You.
+
+Anjali Gunarathne","Dear Mr. Ramasamy,
+
+We are pleased to inform you that we have arranged a short discussion regarding your mail dated 6th September 2023,:
+
+Date : 08th September 2023
+
+Time : 4.00PM
+
+Address : Level 04, BTL Shipping House, No. 45/2, Braybrooke Place, Colombo 02. 
+Kindly bring your academic qualification certificate and previous work experience as reference documents.
+
+We would appreciate if you could send us an acknowledgement email stating the date and time you will be attending.
+
+Thank You.
+
+Anjali Gunarathne
+이 편지에 답장을 작성하고, 내일 면접에 가겠다고 하며 면접 위원에는 누가 있는지 물어보세요.",Content
+"이 퓨처라마 장면의 다음 장면을 작성하세요.
+INT. PLANET EXPRESS BUILDING - DAY
+
+The Planet Express crew is gathered in the conference room for their morning briefing. Leela seems a little off.
+
+LEELA
+Guys, does it look like my feet are getting bigger?
+
+FRY
+Nah, they always look like that.
+
+LEELA
+No, seriously. I feel like I’m growing.
+
+BENDER
+Well, you know what they say, Leela. You are what you eat.
+
+LEELA
+I haven’t eaten anything unusual.
+
+Suddenly, her stomach grumbles loudly.
+
+LEELA (CONT’D)
+Actually, I am pretty hungry.
+
+She heads to the kitchen and opens the fridge, staring at the contents hungrily.
+
+CUT TO:
+
+INT. PLANET EXPRESS KITCHEN - DAY
+
+Leela is standing in front of the open fridge, with a crazed look in her eye. She starts eating everything in sight - jars of pickles, a bag of flour, a carton of milk.
+
+CUT TO:
+
+INT. PLANET EXPRESS BUILDING - DAY
+
+The rest of the crew hears loud crunching noises coming from the kitchen.
+
+FRY
+Uh, guys? I think Leela might be eating the whole fridge.
+
+BENDER
+(sarcastic)
+Oh, great. Just what we need. A giant, hungry cyclops.
+
+Suddenly, the building shakes, and Leela bursts through the wall, towering over the crew.
+
+LEELA (CONT’D)
+(roaring)
+I’M STILL HUNGRY!","INT. PLANET EXPRESS BUILDING - DAY
+
+The Planet Express crew is gathered in the conference room for their morning briefing. Leela seems a little off.
+
+LEELA
+Guys, does it look like my feet are getting bigger?
+
+FRY
+Nah, they always look like that.
+
+LEELA
+No, seriously. I feel like I’m growing.
+
+BENDER
+Well, you know what they say, Leela. You are what you eat.
+
+LEELA
+I haven’t eaten anything unusual.
+
+Suddenly, her stomach grumbles loudly.
+
+LEELA (CONT’D)
+Actually, I am pretty hungry.
+
+She heads to the kitchen and opens the fridge, staring at the contents hungrily.
+
+CUT TO:
+
+INT. PLANET EXPRESS KITCHEN - DAY
+
+Leela is standing in front of the open fridge, with a crazed look in her eye. She starts eating everything in sight - jars of pickles, a bag of flour, a carton of milk.
+
+CUT TO:
+
+INT. PLANET EXPRESS BUILDING - DAY
+
+The rest of the crew hears loud crunching noises coming from the kitchen.
+
+FRY
+Uh, guys? I think Leela might be eating the whole fridge.
+
+BENDER
+(sarcastic)
+Oh, great. Just what we need. A giant, hungry cyclops.
+
+Suddenly, the building shakes, and Leela bursts through the wall, towering over the crew.
+
+LEELA (CONT’D)
+(roaring)
+I’M STILL HUNGRY!
+이 퓨처라마 장면의 다음 장면을 작성하세요.",Content
+"이것에서 제품 아이디어를 추출할 수 있을까요?
+Consider title: ""Shopify audit for improving conversions"" and description: ""Hi all,
+
+I have a Shopify store that has a decent amount of monthly visitors, but is converting less than 1%. I need someone that can help me identify areas to improve, on the front-end and also on the apps installed, as I feel they don't integrate well together.
+
+I can share more details once I select the right partner.""","Consider title: ""Shopify audit for improving conversions"" and description: ""Hi all,
+
+I have a Shopify store that has a decent amount of monthly visitors, but is converting less than 1%. I need someone that can help me identify areas to improve, on the front-end and also on the apps installed, as I feel they don't integrate well together.
+
+I can share more details once I select the right partner.""
+이것에서 제품 아이디어를 추출할 수 있을까요?",Instruction
+"이것은 당신에게 어떻게 들리나요:
+Two people are talking: Person A is talking about something that triggers a memory in Person B, As person A continues to talk the sound of their voice from person B's perspective falls away to silence so that Person A from the perspective of Person B they can see person A's lips move but at that moment they hear absolutely no sound Person A in that moment is 'Talking in Silence'","Two people are talking: Person A is talking about something that triggers a memory in Person B, As person A continues to talk the sound of their voice from person B's perspective falls away to silence so that Person A from the perspective of Person B they can see person A's lips move but at that moment they hear absolutely no sound Person A in that moment is 'Talking in Silence'
+이것은 당신에게 어떻게 들리나요:",Instruction
+"이것을 60단어로 다시 작성하세요.
+Authority is a complex and pervasive concept in society, which plays a crucial role in shaping the relationships between individuals and institutions. As a core element of social order, authority functions as a power dynamic that regulates interactions within various contexts, from political organisations to educational institutions.","Authority is a complex and pervasive concept in society, which plays a crucial role in shaping the relationships between individuals and institutions. As a core element of social order, authority functions as a power dynamic that regulates interactions within various contexts, from political organisations to educational institutions.
+이것을 60단어로 다시 작성하세요.",Content
+"이것을 번역해 주세요.
+Hello, this is the Kevin from Jimmy Farm. You are invited to attend a Packing Shed Interview at 22 bridges Road on Monday 29th January at 8.00am
+Please bring the following items to the interview-
+1. PASSPORT
+OR
+2. CITIZENSHIP CERTIFICATE 
+OR
+3. BIRTH CERTIFICATE
+4. FORKLIFT LICENSE (if you have one)
+5. Bring your own pen
+NOTE: Closed in shoes must be worn while onsite
+Please confirm YES or NO if you will attend this session.
+Regards
+Recruitme","Hello, this is the Kevin from Jimmy Farm. You are invited to attend a Packing Shed Interview at 22 bridges Road on Monday 29th January at 8.00am
+Please bring the following items to the interview-
+1. PASSPORT
+OR
+2. CITIZENSHIP CERTIFICATE 
+OR
+3. BIRTH CERTIFICATE
+4. FORKLIFT LICENSE (if you have one)
+5. Bring your own pen
+NOTE: Closed in shoes must be worn while onsite
+Please confirm YES or NO if you will attend this session.
+Regards
+Recruitme
+이것을 번역해 주세요.",Instruction
+"이것이 독자를 어떻게 위치시키는가
+In the novel “The Hunger Games” the plot is centred around the main character Katniss’s determination to protect her sister which she loves. Katniss’s determination to protect her sister is most evident in that quote ““I volunteer!” I gasp. “I volunteer as tribute!””(Collins, Page 22). Katniss’s reasoning for volunteering was because she was determined to protect her sister who had been picked for the Hunger Games by taking her place and sacrificing herself.","In the novel “The Hunger Games” the plot is centred around the main character Katniss’s determination to protect her sister which she loves. Katniss’s determination to protect her sister is most evident in that quote ““I volunteer!” I gasp. “I volunteer as tribute!””(Collins, Page 22). Katniss’s reasoning for volunteering was because she was determined to protect her sister who had been picked for the Hunger Games by taking her place and sacrificing herself.
+이것이 독자를 어떻게 위치시키는가",Instruction
+"이를 보다 전문적인 어투로 다시 표현해 주세요.
+Dear Recrutment team.
+
+My name is <PRESIDIO_ANONYMIZED_PERSON>, I've been working with PGS (Oil and gas industry) as a Data Center Engineer. I would like to apply for the open position beacuse I beleavie I have the required skills and expeariance.
+
+I also have a transferable IQAMA to work in Saudi arabia
+
+Thanks,
+<PRESIDIO_ANONYMIZED_PERSON>","Dear Recrutment team.
+
+My name is <PRESIDIO_ANONYMIZED_PERSON>, I've been working with PGS (Oil and gas industry) as a Data Center Engineer. I would like to apply for the open position beacuse I beleavie I have the required skills and expeariance.
+
+I also have a transferable IQAMA to work in Saudi arabia
+
+Thanks,
+<PRESIDIO_ANONYMIZED_PERSON>
+이를 보다 전문적인 어투로 다시 표현해 주세요.",Content
+"제 문법이 맞나요? 전문적인 언어로 수정해 주실 수 있나요?
+Action Items:
+
+1. Separate discussion to be held with Risk on the property valuation report topic
+
+2. Further assessment to identify whether sign-off is necessary for net worth statements will be in place
+
+3. Refresher will be sent to the Credit Approvers to remind the aforementioned notes covered in the meeting","Action Items:
+
+1. Separate discussion to be held with Risk on the property valuation report topic
+
+2. Further assessment to identify whether sign-off is necessary for net worth statements will be in place
+
+3. Refresher will be sent to the Credit Approvers to remind the aforementioned notes covered in the meeting
+제 문법이 맞나요? 전문적인 언어로 수정해 주실 수 있나요?",Content
+"제공된 글에서 예측은 무엇인가요?
+Archaeologists claim that the ancestors of American Indians made their way to the new world via a land connection across the Bering Sea. Now anthropologist Jefferey Goodman disputes this land-bridge hypothesis. A migration across the northernmost land would have been such an important event in their history. Goodman says, that American Indian mythology about their origins would refer to a great journey. This myth does not exist. “Conspicuously missing in all the known myths are any stories that bear the slightest resemblance to the notation of a Bearing route; none seem to describe an arduous journey from Asia across the snow and ice of the north.”","Archaeologists claim that the ancestors of American Indians made their way to the new world via a land connection across the Bering Sea. Now anthropologist Jefferey Goodman disputes this land-bridge hypothesis. A migration across the northernmost land would have been such an important event in their history. Goodman says, that American Indian mythology about their origins would refer to a great journey. This myth does not exist. “Conspicuously missing in all the known myths are any stories that bear the slightest resemblance to the notation of a Bearing route; none seem to describe an arduous journey from Asia across the snow and ice of the north.”
+제공된 글에서 예측은 무엇인가요?",Instruction
+"제공된 정보를 바탕으로 자기소개서를 작성하세요.
+I have two degrees, a Master of Information Security and a Bachelor of Computer Science, both from the University of Tabuk. C# and Python are the programming languages that I am proficient in. I am interested in the fields of information security and artificial intelligence. I aim to develop my skills in the field of information security.","I have two degrees, a Master of Information Security and a Bachelor of Computer Science, both from the University of Tabuk. C# and Python are the programming languages that I am proficient in. I am interested in the fields of information security and artificial intelligence. I aim to develop my skills in the field of information security.
+제공된 정보를 바탕으로 자기소개서를 작성하세요.",Content
+"주어진 인용문에 대해 논의에 보낼 매우 짧고 간결한 응답을 주세요.
+My opinion is that the sea is an immense and mysterious place. With courage and strength, we can bravely explore its depths and make a lasting impact on the world. With determination and resourcefulness, I'm here to provide the necessary support on our journey. Together, let's have faith in ourselves and use our strengths to make the most of this journey and uncover the wonders of the ocean.","My opinion is that the sea is an immense and mysterious place. With courage and strength, we can bravely explore its depths and make a lasting impact on the world. With determination and resourcefulness, I'm here to provide the necessary support on our journey. Together, let's have faith in ourselves and use our strengths to make the most of this journey and uncover the wonders of the ocean.
+주어진 인용문에 대해 논의에 보낼 매우 짧고 간결한 응답을 주세요.",Content
+"주어진 텍스트를 간단히 설명하세요:
+One must be frank about the state of the art for models that capture syntax. It’s not that large language models offer slightly higher performance than other approaches in linguistics; its not that they better cover some corners of syntax. It’s that there is nothing comparable in all of linguistic theory to the power of large language models in both syntax and semantics—much less discourse coherence, style, pragmatics, translation, meta-linguistic awareness, non-linguistic tasks, etc. They are game changers on all fronts.","One must be frank about the state of the art for models that capture syntax. It’s not that large language models offer slightly higher performance than other approaches in linguistics; its not that they better cover some corners of syntax. It’s that there is nothing comparable in all of linguistic theory to the power of large language models in both syntax and semantics—much less discourse coherence, style, pragmatics, translation, meta-linguistic awareness, non-linguistic tasks, etc. They are game changers on all fronts.
+주어진 텍스트를 간단히 설명하세요:",Instruction
+"주어진 텍스트를 번역하세요.
+Once upon a time in a small village, the townspeople discovered a mysterious book filled with ancient symbols. They believed it held the secret to eternal happiness. Eager to uncover its meaning, they sought the help of a wise scholar who had studied ancient languages.","Once upon a time in a small village, the townspeople discovered a mysterious book filled with ancient symbols. They believed it held the secret to eternal happiness. Eager to uncover its meaning, they sought the help of a wise scholar who had studied ancient languages.
+주어진 텍스트를 번역하세요.",Instruction
+"직원들에게 주어진 항목을 포함한 간단한 정책을 작성해 주세요:
+The Company has the right to change the place of the employee work, as it sees fit and to request they work from the office or from home etc Secondly, the company has the right to change the amount of days that the employee works from home, as it sees fit, and in accordance to its needs, it does not need to make accounts, adjustments etc","The Company has the right to change the place of the employee work, as it sees fit and to request they work from the office or from home etc Secondly, the company has the right to change the amount of days that the employee works from home, as it sees fit, and in accordance to its needs, it does not need to make accounts, adjustments etc
+직원들에게 주어진 항목을 포함한 간단한 정책을 작성해 주세요:",Content
+"짧게 요약하고 문장을 다시 표현해 주세요.
+Respected Leaders,
+
+Hope you are doing well.
+
+Kindly note, due to the unavailability of our champion leader DTM Syed Faisal on 13-Sep, we have to reschedule our meeting to 19th September, from 6:00 PM.
+
+Appreciate your understanding and support.
+
+Meeting link will be shared prior to the meeting.
+
+If any concerns, kindly let us know.","Respected Leaders,
+
+Hope you are doing well.
+
+Kindly note, due to the unavailability of our champion leader DTM Syed Faisal on 13-Sep, we have to reschedule our meeting to 19th September, from 6:00 PM.
+
+Appreciate your understanding and support.
+
+Meeting link will be shared prior to the meeting.
+
+If any concerns, kindly let us know.
+짧게 요약하고 문장을 다시 표현해 주세요.",Content
+"창의적인 글쓰기를 활용하여 글쓰기 주제를 완성하세요. (창의적인 글쓰기는 시와 소설부터 시나리오와 에세이까지 다양한 문학 형식을 포괄합니다. 이 스타일은 예술적 표현, 상상력, 독창성을 장려합니다.)
+Writing Prompt: An athletic woman is at first intrigued why all her boyfriend's exes seem to have gained weight while doing dating but she dismiss the thought and assume that a lot of people their age are getting out of shape. But everything changed when her boyfriend began cooking more and more fattening food, invite her to restaurants and encourage her to chill at home instead of doing sports.","Writing Prompt: An athletic woman is at first intrigued why all her boyfriend's exes seem to have gained weight while doing dating but she dismiss the thought and assume that a lot of people their age are getting out of shape. But everything changed when her boyfriend began cooking more and more fattening food, invite her to restaurants and encourage her to chill at home instead of doing sports.
+창의적인 글쓰기를 활용하여 글쓰기 주제를 완성하세요. (창의적인 글쓰기는 시와 소설부터 시나리오와 에세이까지 다양한 문학 형식을 포괄합니다. 이 스타일은 예술적 표현, 상상력, 독창성을 장려합니다.)",Content
+"초보자에게 설명하자면, 이 개념은 무엇이며 무엇을 말하려고 하는지:
+Try to imagine a creation myth in which everything in existence - you and all your experiences, all conscious beings and all their experiences, the universe and all if its experiences and all its infinite elements, everything from spacetime itself to subatomic particles to chemicals to birds to planets to stars and galaxies, the entire sea of infinity we think we live in - is all merely the finite and fleeting song of a bird. This bird exists beyond our spacetime, so it might be better to call it a hyperbird. In order to attract a mate and reproduce, it sings its song, which is our existence. According to both bleeding-edge science and ancient teachings, we can only perceive illusion when we use our senses to try to grasp reality. This is because the focus of evolution is survival and reproduction, and we are a product of evolution. If an organism sees truth, it lacks the ability to survive and reproduce. If an organism is successful at survival and reproduction, it cannot see truth. The more resources we put into survival and reproduction, the less truth we can see. Perhaps even the super-intelligent hyperbird would not be able to see truth. Language and our thoughts themselves are products of evolution. Just like the hyperbird's song - our reality - our own words and thoughts seek to survive, replicate themselves, and evolve. Try to sit for one hour without speaking and thinking. All sorts of thoughts will pop into your head; the more you try to not think, the more you think. These inner words and thoughts are trying to use your awareness as a medium to survive, replicate and evolve. Given enough time they will evolve into universes too. Do you let them evolve into new worlds?","Try to imagine a creation myth in which everything in existence - you and all your experiences, all conscious beings and all their experiences, the universe and all if its experiences and all its infinite elements, everything from spacetime itself to subatomic particles to chemicals to birds to planets to stars and galaxies, the entire sea of infinity we think we live in - is all merely the finite and fleeting song of a bird. This bird exists beyond our spacetime, so it might be better to call it a hyperbird. In order to attract a mate and reproduce, it sings its song, which is our existence. According to both bleeding-edge science and ancient teachings, we can only perceive illusion when we use our senses to try to grasp reality. This is because the focus of evolution is survival and reproduction, and we are a product of evolution. If an organism sees truth, it lacks the ability to survive and reproduce. If an organism is successful at survival and reproduction, it cannot see truth. The more resources we put into survival and reproduction, the less truth we can see. Perhaps even the super-intelligent hyperbird would not be able to see truth. Language and our thoughts themselves are products of evolution. Just like the hyperbird's song - our reality - our own words and thoughts seek to survive, replicate themselves, and evolve. Try to sit for one hour without speaking and thinking. All sorts of thoughts will pop into your head; the more you try to not think, the more you think. These inner words and thoughts are trying to use your awareness as a medium to survive, replicate and evolve. Given enough time they will evolve into universes too. Do you let them evolve into new worlds?
+초보자에게 설명하자면, 이 개념은 무엇이며 무엇을 말하려고 하는지:",Instruction
+"코드에서 이 오류가 발생하고 있습니다:
+ERROR: Mismatch in the CFITSIO_SONAME value in the fitsio.h include file that was used to build the CFITSIO library, and the value in the include file that was used when compiling the application program: Version used to build the CFITSIO library = 8 Version included by the application program = 10","ERROR: Mismatch in the CFITSIO_SONAME value in the fitsio.h include file that was used to build the CFITSIO library, and the value in the include file that was used when compiling the application program: Version used to build the CFITSIO library = 8 Version included by the application program = 10
+코드에서 이 오류가 발생하고 있습니다:",Instruction
+"팬들이 말한 내용을 100단어 이내로 요약하세요. 팬들의 인용문은 다음 형식으로 포함하세요: {팬들}|{인용문}.
+The incident occurred during the break at Sunday’s 2-0 win over Iceland.
+But with Portugal struggling to take their chances in the first half to enter the Euro Cup, players gathered in the tunnel for a pep talk before heading back onto the pitch.
+Manchester United captain Fernandes and Man City defender Ruben Dias could be seen engaged in a tense discussion as teammates watched on.
+One of those taking it all in was national team skipper Ronaldo, who now plies his trade in Saudi Arabia with Al-Nassr.
+But the legendary striker appeared bemused while watching Fernandes and Dias’ conversation.
+And Ronaldo turned on his heels while bearing a wry grin as he walked out of the tunnel and onto the field.
+Supporters were quick to take note of his body language and facial expression, with many reckoning Ronnie is yearning for the old days of international football.One said: “You can see the goat misses the old generation.
+“Diogo Dalot and Otavio are probably the only two from this generation that Cristiano is close with.
+“We need Pepe back too, he is a REAL one!”
+Another declared: “Man is lost listening.”
+One added: “Bruno believes himself to be the captain.”
+But Portugal boss Martinez downplayed any talk of Ronaldo being unsettled, saying: ""Cristiano Ronaldo is as hungry as an 18-year-old player. He is a role model, he always tries to be in the right position and is looking for the goal.""","The incident occurred during the break at Sunday’s 2-0 win over Iceland.
+But with Portugal struggling to take their chances in the first half to enter the Euro Cup, players gathered in the tunnel for a pep talk before heading back onto the pitch.
+Manchester United captain Fernandes and Man City defender Ruben Dias could be seen engaged in a tense discussion as teammates watched on.
+One of those taking it all in was national team skipper Ronaldo, who now plies his trade in Saudi Arabia with Al-Nassr.
+But the legendary striker appeared bemused while watching Fernandes and Dias’ conversation.
+And Ronaldo turned on his heels while bearing a wry grin as he walked out of the tunnel and onto the field.
+Supporters were quick to take note of his body language and facial expression, with many reckoning Ronnie is yearning for the old days of international football.One said: “You can see the goat misses the old generation.
+“Diogo Dalot and Otavio are probably the only two from this generation that Cristiano is close with.
+“We need Pepe back too, he is a REAL one!”
+Another declared: “Man is lost listening.”
+One added: “Bruno believes himself to be the captain.”
+But Portugal boss Martinez downplayed any talk of Ronaldo being unsettled, saying: ""Cristiano Ronaldo is as hungry as an 18-year-old player. He is a role model, he always tries to be in the right position and is looking for the goal.""
+팬들이 말한 내용을 100단어 이내로 요약하세요. 팬들의 인용문은 다음 형식으로 포함하세요: {팬들}|{인용문}.",Content
