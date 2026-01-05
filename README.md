@@ -11,40 +11,23 @@ CSLM consists of two settings: **Simple** and **Complex**.
 The Simple setting focuses on intra-sentential code-switching, where the expected response language is the *matrix language*—the language providing the core grammatical structure into which elements from another language are embedded.
 
 Located in `simple/`:
-- **EN_Matrix_KO_Content.csv**: English matrix language with Korean embedded content (258 examples)
-- **KO_Matrix_EN_Content.csv**: Korean matrix language with English embedded content (283 examples)
+- **EN_Matrix_KO_Content.csv**: English matrix language with Korean embedded content 
+- **KO_Matrix_EN_Content.csv**: Korean matrix language with English embedded content 
 
-Each file contains two columns:
-- `codeswitch`: The code-switched prompt
+Each file contains three columns:
+- `query`: The code-switched prompt
 - `source`: Source identifier
+- `expected_lang`: Expected response language (always "Matrix" for Simple setting)
 
 ### Complex Setting
 
 The Complex setting involves inter-sentential code-switching, where instruction and content languages differ, and the correct response language must be inferred from task semantics.
 
 Located in `complex/`:
-- **EN_Instruction_KO_Content.csv**: English instruction with Korean content (272 examples)
-- **KO_Instruction_EN_Content.csv**: Korean instruction with English content (58 examples)
-
-Each file contains three columns:
-- `InstrFirst`: Instruction-first format
-- `ContentFirst`: Content-first format
+- **EN_Instruction_KO_Content.csv**: English instruction with Korean content 
+- **KO_Instruction_EN_Content.csv**: Korean instruction with English content 
+Each file contains four columns:
+- `InstrFirst`: Instruction-first query
+- `ContentFirst`: Content-first query
+- `source`: Source identifier (always "WildChat_1M" for Complex setting)
 - `expected_lang`: Expected response language
-
-## Data Sources
-
-- **Simple Setting**: Initial prompts collected from the monolingual Language Confusion Benchmark (199 EN) and WildChat 1M (100 KO)
-- **Complex Setting**: Based on qualitative analysis of 3K code-switching utterances from LLM–user interactions. 60 representative instruction templates (30 per category) from WildChat 1M, with four content variations per template.
-
-## Citation
-
-If you use this dataset, please cite:
-
-```bibtex
-@article{cslm2024,
-  title={CSLM: Code-Switching Language Model Benchmark},
-  author={...},
-  year={2024}
-}
-```
-
