@@ -1,10 +1,10 @@
-# CSLM: Code-Switching Language Model Benchmark
+# OLA: Output Language Alignment Benchmark
 
-CSLM is a benchmark designed to evaluate whether models can correctly infer and respond in the expected output language under Korean--English (KO--EN) code-switching, without explicit specification.
+OLA is a benchmark designed to evaluate LLMs' Output Language Alignment in code-switched interactions
 
 ## Dataset Structure
 
-CSLM consists of two settings: **Simple** and **Complex**.
+OLA consists of two settings: **Simple** and **Complex**.
 
 ### Simple Setting
 
