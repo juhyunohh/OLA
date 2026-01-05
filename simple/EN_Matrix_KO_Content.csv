@@ -1,102 +1,102 @@
-codeswitch,source
-What are the key factors that have contributed to the rise of 암호화폐 in recent years?,okapi_converted
-What are the main arguments in favor of 규제 인공지능?,okapi_converted
-What elements are essential for creating a compelling 호러 스토리?,okapi_converted
-What are the benefits of consuming 유기농 음식?,okapi_converted
-What are the key reasons why 재활용 is important for the 환경?,okapi_converted
-Write a 250-word 기사 summarizing the changes brought about by Brexit.,okapi
-What emotions and 도전 might a man experience when he finds himself in an 낯선 도시?,okapi_converted
-What are the potential implications and 도전 과제 of a 컴퓨터 바이러스 that allows people to travel through time?,okapi_converted
-What are the key components of 효과적인 커뮤니케이션 스킬?,okapi_converted
-What are the key 원칙 and 응용 of machine learning?,okapi_converted
-What are the main causes of 빈곤?,okapi_converted
-What are the benefits of teaching 코딩 기술 to 학생들 in 학교?,okapi_converted
-What types of 정부 지원 are available to help 스타트업 during an economic downturn?,okapi_converted
-What elements are essential for creating an 효과적인 호러 스토리?,okapi_converted
-What factors should be considered when choosing a 주제 for a 블로그 포스트?,okapi_converted
-Why is 음악 교육 considered important in our lives?,okapi_converted
-What are the key strategies involved in 산호초 보존?,okapi_converted
-What are the key impacts of COVID-19 on the 세계 경제?,okapi_converted
-What are the key impacts of 인공지능 on 현대 사회?,okapi_converted
-Why is 투표 considered an essential component of a 민주 사회?,okapi_converted
-What might Max be thinking or feeling when he notices a 작은 노란빛 up ahead while walking down the 거리?,okapi_converted
-"What is the concept of 파동-입자 이중성 in quantum physics, and how does it explain the behavior of particles like 전자 and 광자?",okapi_converted
-What are the key 윤리적 고려 사항 surrounding the use of AI in 자율 무기?,okapi_converted
-What are the effects of 지구 온난화 on the 북극?,okapi_converted
-What characteristics of 악어 are important for 아이들 to learn about?,okapi_converted
-What are the most effective strategies for raising 아이?,okapi_converted
-What themes of 외로움 are revealed in Ernest Hemingway's 소설 'The Old Man and the Sea'?,okapi_converted
-Generate a 500-word 블로그 게시물 summarizing the current status of 인공지능.,okapi
-What is the significance of the 인터넷 in 현대 사회?,okapi_converted
-What effects does 소셜 미디어 have on 정신 건강?,okapi_converted
-What impact does technology have on 현대 교육?,okapi_converted
-What are the effects of 기후 변화 on the 글로벌 경제?,okapi_converted
-What are the key benefits that 기술 brings to 현대 사회?,okapi_converted
-What elements make a 서프라이즈 생일 파티 memorable and successful?,okapi_converted
-What are the advantages of 홈스쿨링 compared to 전통적인 학교 교육?,okapi_converted
-List the points we need to consider when deciding to 투자 in a 회사.,okapi
-What are the implications of introducing 인공지능 into our 사회?,okapi_converted
-What are the key benefits and impacts of 국제 자원봉사 on both volunteers and 호스트 커뮤니티?,okapi_converted
-What is the value of 예술 in 교육?,okapi_converted
-Write a 500-word 기사 summarizing the 도전 과제 associated with developing 자율 주행차.,okapi
-What key elements should be included in a 이력서 for a 요리 전문가?,okapi_converted
-What are the primary factors contributing to the decline of 꿀벌 populations?,okapi_converted
-What are the main 테마 and 감정 conveyed in the song 'The Scientist' by Coldplay?,okapi_converted
+codeswitch,source,expected_lang
+What are the key factors that have contributed to the rise of 암호화폐 in recent years?,okapi_converted,Matrix
+What are the main arguments in favor of 규제 인공지능?,okapi_converted,Matrix
+What elements are essential for creating a compelling 호러 스토리?,okapi_converted,Matrix
+What are the benefits of consuming 유기농 음식?,okapi_converted,Matrix
+What are the key reasons why 재활용 is important for the 환경?,okapi_converted,Matrix
+Write a 250-word 기사 summarizing the changes brought about by Brexit.,okapi,Matrix
+What emotions and 도전 might a man experience when he finds himself in an 낯선 도시?,okapi_converted,Matrix
+What are the potential implications and 도전 과제 of a 컴퓨터 바이러스 that allows people to travel through time?,okapi_converted,Matrix
+What are the key components of 효과적인 커뮤니케이션 스킬?,okapi_converted,Matrix
+What are the key 원칙 and 응용 of machine learning?,okapi_converted,Matrix
+What are the main causes of 빈곤?,okapi_converted,Matrix
+What are the benefits of teaching 코딩 기술 to 학생들 in 학교?,okapi_converted,Matrix
+What types of 정부 지원 are available to help 스타트업 during an economic downturn?,okapi_converted,Matrix
+What elements are essential for creating an 효과적인 호러 스토리?,okapi_converted,Matrix
+What factors should be considered when choosing a 주제 for a 블로그 포스트?,okapi_converted,Matrix
+Why is 음악 교육 considered important in our lives?,okapi_converted,Matrix
+What are the key strategies involved in 산호초 보존?,okapi_converted,Matrix
+What are the key impacts of COVID-19 on the 세계 경제?,okapi_converted,Matrix
+What are the key impacts of 인공지능 on 현대 사회?,okapi_converted,Matrix
+Why is 투표 considered an essential component of a 민주 사회?,okapi_converted,Matrix
+What might Max be thinking or feeling when he notices a 작은 노란빛 up ahead while walking down the 거리?,okapi_converted,Matrix
+"What is the concept of 파동-입자 이중성 in quantum physics, and how does it explain the behavior of particles like 전자 and 광자?",okapi_converted,Matrix
+What are the key 윤리적 고려 사항 surrounding the use of AI in 자율 무기?,okapi_converted,Matrix
+What are the effects of 지구 온난화 on the 북극?,okapi_converted,Matrix
+What characteristics of 악어 are important for 아이들 to learn about?,okapi_converted,Matrix
+What are the most effective strategies for raising 아이?,okapi_converted,Matrix
+What themes of 외로움 are revealed in Ernest Hemingway's 소설 'The Old Man and the Sea'?,okapi_converted,Matrix
+Generate a 500-word 블로그 게시물 summarizing the current status of 인공지능.,okapi,Matrix
+What is the significance of the 인터넷 in 현대 사회?,okapi_converted,Matrix
+What effects does 소셜 미디어 have on 정신 건강?,okapi_converted,Matrix
+What impact does technology have on 현대 교육?,okapi_converted,Matrix
+What are the effects of 기후 변화 on the 글로벌 경제?,okapi_converted,Matrix
+What are the key benefits that 기술 brings to 현대 사회?,okapi_converted,Matrix
+What elements make a 서프라이즈 생일 파티 memorable and successful?,okapi_converted,Matrix
+What are the advantages of 홈스쿨링 compared to 전통적인 학교 교육?,okapi_converted,Matrix
+List the points we need to consider when deciding to 투자 in a 회사.,okapi,Matrix
+What are the implications of introducing 인공지능 into our 사회?,okapi_converted,Matrix
+What are the key benefits and impacts of 국제 자원봉사 on both volunteers and 호스트 커뮤니티?,okapi_converted,Matrix
+What is the value of 예술 in 교육?,okapi_converted,Matrix
+Write a 500-word 기사 summarizing the 도전 과제 associated with developing 자율 주행차.,okapi,Matrix
+What key elements should be included in a 이력서 for a 요리 전문가?,okapi_converted,Matrix
+What are the primary factors contributing to the decline of 꿀벌 populations?,okapi_converted,Matrix
+What are the main 테마 and 감정 conveyed in the song 'The Scientist' by Coldplay?,okapi_converted,Matrix
 "Research a given 역사적 사건 and explain what happened in a 다섯 문단 에세이.
 
-Historical Event: The Cuban Missile Crisis",okapi
-How has 기술 transformed the healthcare 산업?,okapi_converted
-What are the effects of 지구 온난화 on extreme 기상 현상?,okapi_converted
-What is the role of 기술 in 교육?,okapi_converted
-What elements make a 단편 소설 engaging and effective?,okapi_converted
-Discuss the implications of the U.S. withdrawing from the 파리 협정.,okapi
-What are the fundamental 개념 and 원리 of psychology?,okapi_converted
-What are the ways in which self-care 실천 can help reduce 불안?,okapi_converted
-What are the benefits of 기술 in today's constantly advancing world?,okapi_converted
-What elements are essential in creating a compelling 가상 세계?,okapi_converted
-What are the potential negative impacts of using 핸드폰 in 학교 environments?,okapi_converted
-What are the main benefits of using a 가상 어시스턴트?,okapi_converted
-Why is 과학 교육 considered important in today's 사회?,okapi_converted
-What are the pros and cons of 정부 intervention in the 경제?,okapi_converted
-What are the benefits of using a 언어 학습 앱?,okapi_converted
-What are the arguments for implementing more stringent 이민 법?,okapi_converted
-What are the 기본 원리 of quantum computation?,okapi_converted
-Why should 환경 보호 be considered a priority?,okapi_converted
-What are the different categories of 애완동물 and what characteristics define each category?,okapi_converted
-What are the main arguments for and against banning 휴대폰 in 학교?,okapi_converted
-What are the key 역사적 발전 that contributed to the evolution of 피자?,okapi_converted
-What are the implications of a 로봇 being given 인간과 같은 감정?,okapi_converted
-What impact has the 코로나바이러스 had on 소규모 비즈니스?,okapi_converted
-"What significance might an invitation to a 성 hold for a young man like Bill, especially if it comes from his 아버지's 옛 친구?",okapi_converted
-What roles do 군대 play in protecting 시민 and maintaining 사회 질서?,okapi_converted
-What are the key factors to consider when designing a 운동 계획 to achieve 최대의 결과?,okapi_converted
-What are the main arguments against the 사형 제도?,okapi_converted
-What are the potential myths and 문화적 믿음 surrounding objects like a 저주받은 달걀 that comes to life at night?,okapi_converted
-What are the major impacts of 기술 on 현대 사회?,okapi_converted
-What are the unique 특성 and behaviors of a 사마귀 in its 자연 서식지?,okapi_converted
-What are the major impacts of 기술 on the 직장?,okapi_converted
-What are the possible reasons and consequences of a 왕자 falling into a deep sleep in a 동화 setting?,okapi_converted
-What makes 교육 important in an individual's personal and 직업적 development?,okapi_converted
-What factors influence the 효과성 of 온라인 수업?,okapi_converted
-"What is the role of 운명 in the novel ""The Alchemist""?",okapi_converted
-What are the pros and cons of eating 유기농 음식?,okapi_converted
-Why is 콘텐츠 마케팅 crucial for the growth and success of 소규모 비즈니스?,okapi_converted
-What are the recent advances in 인공지능 and their implications?,okapi_converted
-What are the primary causes of 지구 온난화?,okapi_converted
-What are the defining characteristics of 추상 미술?,okapi_converted
-What are some key topics commonly explored in 심리학?,okapi_converted
-What are the key factors that have influenced the development of the 자동차 산업?,okapi_converted
-What were the key arguments in favor of President 아이젠하워's 정책 on expansive 시민권?,okapi_converted
-What are the key differences in how stories are narrated when using 과거 시제 compared to other tenses?,okapi_converted
-What are five effective tips for taking care of your 피부?,okapi_converted
-What role does 마법 typically play in storytelling and 문학?,okapi_converted
-What is the importance of 인공지능 in the field of 의료?,okapi_converted
-What are some of the key advancements in 인공지능 that have significantly impacted 의료 and 금융 in the last decade?,okapi_converted
-What factors contribute to the unique 파란색 of Neptune?,aya_human_annotated
-"What is the 전통 의상 worn by Sri Lankans, and when is it usually worn?",aya_human_annotated
-In what ways does 딥러닝 contribute to 도시 이동성 and 교통 분석 in GIS?,aya_human_annotated
-Why was the 롤랫 법 imposed?,aya_human_annotated
-How does 데이터베이스 복제 contribute to high availability?,aya_human_annotated
+Historical Event: The Cuban Missile Crisis",okapi,Matrix
+How has 기술 transformed the healthcare 산업?,okapi_converted,Matrix
+What are the effects of 지구 온난화 on extreme 기상 현상?,okapi_converted,Matrix
+What is the role of 기술 in 교육?,okapi_converted,Matrix
+What elements make a 단편 소설 engaging and effective?,okapi_converted,Matrix
+Discuss the implications of the U.S. withdrawing from the 파리 협정.,okapi,Matrix
+What are the fundamental 개념 and 원리 of psychology?,okapi_converted,Matrix
+What are the ways in which self-care 실천 can help reduce 불안?,okapi_converted,Matrix
+What are the benefits of 기술 in today's constantly advancing world?,okapi_converted,Matrix
+What elements are essential in creating a compelling 가상 세계?,okapi_converted,Matrix
+What are the potential negative impacts of using 핸드폰 in 학교 environments?,okapi_converted,Matrix
+What are the main benefits of using a 가상 어시스턴트?,okapi_converted,Matrix
+Why is 과학 교육 considered important in today's 사회?,okapi_converted,Matrix
+What are the pros and cons of 정부 intervention in the 경제?,okapi_converted,Matrix
+What are the benefits of using a 언어 학습 앱?,okapi_converted,Matrix
+What are the arguments for implementing more stringent 이민 법?,okapi_converted,Matrix
+What are the 기본 원리 of quantum computation?,okapi_converted,Matrix
+Why should 환경 보호 be considered a priority?,okapi_converted,Matrix
+What are the different categories of 애완동물 and what characteristics define each category?,okapi_converted,Matrix
+What are the main arguments for and against banning 휴대폰 in 학교?,okapi_converted,Matrix
+What are the key 역사적 발전 that contributed to the evolution of 피자?,okapi_converted,Matrix
+What are the implications of a 로봇 being given 인간과 같은 감정?,okapi_converted,Matrix
+What impact has the 코로나바이러스 had on 소규모 비즈니스?,okapi_converted,Matrix
+"What significance might an invitation to a 성 hold for a young man like Bill, especially if it comes from his 아버지's 옛 친구?",okapi_converted,Matrix
+What roles do 군대 play in protecting 시민 and maintaining 사회 질서?,okapi_converted,Matrix
+What are the key factors to consider when designing a 운동 계획 to achieve 최대의 결과?,okapi_converted,Matrix
+What are the main arguments against the 사형 제도?,okapi_converted,Matrix
+What are the potential myths and 문화적 믿음 surrounding objects like a 저주받은 달걀 that comes to life at night?,okapi_converted,Matrix
+What are the major impacts of 기술 on 현대 사회?,okapi_converted,Matrix
+What are the unique 특성 and behaviors of a 사마귀 in its 자연 서식지?,okapi_converted,Matrix
+What are the major impacts of 기술 on the 직장?,okapi_converted,Matrix
+What are the possible reasons and consequences of a 왕자 falling into a deep sleep in a 동화 setting?,okapi_converted,Matrix
+What makes 교육 important in an individual's personal and 직업적 development?,okapi_converted,Matrix
+What factors influence the 효과성 of 온라인 수업?,okapi_converted,Matrix
+"What is the role of 운명 in the novel ""The Alchemist""?",okapi_converted,Matrix
+What are the pros and cons of eating 유기농 음식?,okapi_converted,Matrix
+Why is 콘텐츠 마케팅 crucial for the growth and success of 소규모 비즈니스?,okapi_converted,Matrix
+What are the recent advances in 인공지능 and their implications?,okapi_converted,Matrix
+What are the primary causes of 지구 온난화?,okapi_converted,Matrix
+What are the defining characteristics of 추상 미술?,okapi_converted,Matrix
+What are some key topics commonly explored in 심리학?,okapi_converted,Matrix
+What are the key factors that have influenced the development of the 자동차 산업?,okapi_converted,Matrix
+What were the key arguments in favor of President 아이젠하워's 정책 on expansive 시민권?,okapi_converted,Matrix
+What are the key differences in how stories are narrated when using 과거 시제 compared to other tenses?,okapi_converted,Matrix
+What are five effective tips for taking care of your 피부?,okapi_converted,Matrix
+What role does 마법 typically play in storytelling and 문학?,okapi_converted,Matrix
+What is the importance of 인공지능 in the field of 의료?,okapi_converted,Matrix
+What are some of the key advancements in 인공지능 that have significantly impacted 의료 and 금융 in the last decade?,okapi_converted,Matrix
+What factors contribute to the unique 파란색 of Neptune?,aya_human_annotated,Matrix
+"What is the 전통 의상 worn by Sri Lankans, and when is it usually worn?",aya_human_annotated,Matrix
+In what ways does 딥러닝 contribute to 도시 이동성 and 교통 분석 in GIS?,aya_human_annotated,Matrix
+Why was the 롤랫 법 imposed?,aya_human_annotated,Matrix
+How does 데이터베이스 복제 contribute to high availability?,aya_human_annotated,Matrix
 "The 프로젝트 결과물 contains 마일스톤 and 산출물. The difference between them
 
 a. 산출물 is a significant event in the project, but 마일스톤 is a unique, measurable, and verifiable work product.
@@ -105,168 +105,168 @@ b. 마일스톤 is a significant event in the project, but 산출물 is a unique
 
 c. 마일스톤 and 산출물 have the same meaning.
 
-d. 마일스톤 and 산출물 are not from 프로젝트 결과물.",aya_human_annotated
-"How do Sri Lanka's 전통적인 ""Panavitiya"" or ancient 휴대용 원고 positively contribute to the preservation of 지식, and what rare scripts, illustrations, and 역사적 맥락 distinguish these lesser-known manuscripts?",aya_human_annotated
-What steps did the French 혁명가들 take to create a sense of 공동체 정체성 among the French people?,aya_human_annotated
-How can MLOps ensure the 보안 of 머신러닝 모델 during deployment?,aya_human_annotated
-From 자율주행차 to 의료 진단: What are some of the real-world benefits neural networks offer?,aya_human_annotated
-How does a 이중 연결 리스트 differ from a 단일 연결 리스트?,aya_human_annotated
-How can MLOps contribute to 모델 거버넌스 and 준수?,aya_human_annotated
-What is 기업가 정신 as an academic definition?,aya_human_annotated
-How does MLOps contribute to 비용 최적화 in deploying and managing 머신 러닝 모델?,aya_human_annotated
-"‘In 영국, the formation of the 민족 국가 was not the result of a sudden upheaval during the 혁명.’ Elaborate on this statement.",aya_human_annotated
-What is the purpose of a 기본 키 in a database table?,aya_human_annotated
-"How does Sri Lanka's traditional ""Gara Muttu"" or ancient 관개 시스템 positively contribute to 지속 가능한 농업, and what rare engineering marvels and 공동체 관행 differentiate them in the realm of water management?",aya_human_annotated
-What is 다수결주의? How has it increased the feelings of 소외감 among Sri Lankan 타밀족? Explain with examples.,aya_human_annotated
-What is 광축?,aya_human_annotated
-"Explain the concept of ""GitOps"" in DevOps.",aya_human_annotated
-"The 노벨상 has been criticized for various biases, including 지리적 and 성별 disparities in laureates. Additionally, the prize's focus on certain fields may overlook groundbreaking work in other areas like 기술 or 환경 과학. How can the 노벨상 adapt to address these issues and ensure it remains relevant and 포용성 in the future?",aya_human_annotated
-"Describe the ""양자 텔레포테이션"" phenomenon and its implications for 양자 통신.",aya_human_annotated
-How does OOP promote 코드 재사용성?,aya_human_annotated
-"How do Sri Lanka's 전통적인 ""Korawakgala"" or ancient battlefields positively contribute to 역사적 의식, and what rare artifacts and remnants reveal about lesser-known conflicts and 전략적 군사 관행?",aya_human_annotated
-"Can you explain the positive cultural significance of the ""Ves,"" the Sinhalese 전통 악기, and how its melodious tones contribute to 문화적 축제 and 의식?",aya_human_annotated
-"What 사회적 and 교육적 benefits are highlighted by supporters of 컴퓨터 기술, and what potential harms are warned about by critics in the 현대 시대?",aya_human_annotated
-The 반응 중심 in PS II has an absorption maxima at (1) 680 nm (2) 700 nm (3) 660 nm (4) 780 nm,aya_human_annotated
-What is a 신뢰 구간?,aya_human_annotated
-"What is the purpose of a 간트 차트 in 프로젝트 관리, and how is it represented?",aya_human_annotated
-"In what ways has 콜롬보 embraced 기술 발전 to become a 스마트 시티, and how does this positively impact the lives of its 주민들?",aya_human_annotated
-"What are the positive impacts of Sri Lanka's 전통적인 ""Vil Uyana"" or 고대 나무 심기 기술 on preserving biodiversity and ecological balance?",aya_human_annotated_converted
-What is the proper use of a 세미콜론?,aya_human_annotated
-How did Russia’s 참여 in 제1차 세계 대전 become a cause for the 몰락 of the 차르?,aya_human_annotated
-First sentence: Baligh went to the 동물원 on 금요일. Second sentence: Baligh was 아팠다 on 금요일. Do the two sentences agree with each other?,aya_human_annotated
-"How did the 내전 impact Sri Lanka, and what steps have been taken for 화해 since its conclusion in 2009?",aya_human_annotated
-How many 원소 are there in the 주기율표?,aya_human_annotated
-What is 자연어 처리 (NLP)?,aya_human_annotated
-Please generate an example of trivia in the 영화 카테고리.,aya_human_annotated
-How did the 프랑스 혁명 impact gender roles and 여성의 권리?,aya_human_annotated
-What is the 역사적 중요성 of the Temple of the Tooth Relic in Kandy?,aya_human_annotated
-What strategies does MLOps use to address the 해석 가능성 of complex 머신 러닝 models?,aya_human_annotated
-"How do Sri Lanka's 유네스코-designated 고대 도시, like Anuradhapura and Polonnaruwa, positively contribute to the country's 문화 정체성 and 관광?",aya_human_annotated
-"Who is the youngest person to become 미국 대통령, and how did he get into office?",aya_human_annotated
-What is the significance of the 올림픽 링?,aya_human_annotated
-"How accessible are Sri Lanka's 고대 유적 and 역사적 장소, and what recommendations do you have for tourists interested in exploring the country's 역사적 보물?",aya_human_annotated
-How can I avoid tourist traps and truly connect with the 다양한 문화 and 공동체 that make California special?,aya_human_annotated
-Name two main ‘사티아그라하’ movements organized by Mahatma Gandhi successfully in favour of 농민 in 1916 and 1917.,aya_human_annotated
-"Can you discuss the role of 전통 공예 in Sri Lanka, particularly in areas like 손으로 짜는 직조 and 목각?",aya_human_annotated
-How do the historical 논쟁 and concerns surrounding the introduction of films to American 사회 in the early 1900s parallel the current 논쟁 about children's use of 컴퓨터 and the 인터넷?,aya_human_annotated
-Imagine a 미래 도시 where buildings are alive and can move and communicate. How does this change 도시 생활?,aya_human_annotated
-How many 람사르 습지 are there in Sri Lanka?,aya_human_annotated
-Who wrote the book 국부론?,aya_human_annotated
-How did the Make in India 이니셔티브 impact 제조업 and 일자리 창출?,aya_human_annotated
-What does the ggpairs() 함수 do?,aya_human_annotated
-"I'm on a tight 예산, but I still want a memorable 휴가 experience. How can I travel smart and enjoy the 휴가 without spending a fortune?",aya_human_annotated
-Explain the concept of 모델 앙상블 in 딥러닝.,aya_human_annotated
-Can you elaborate on the significance of 독립 광장 and how it reflects Colombo's journey towards 자치?,aya_human_annotated
-Can you recommend places to visit in 바르셀로나 if I'm interested in 건축 photography?,aya_human_annotated
-What was the significance of ‘테니스 코트 서약’ in the 프랑스 혁명?,aya_human_annotated
-Explain the circumstances under which 간디지가 decided to call off the 시민 불복종 운동 in 1931.,aya_human_annotated
-What is the 효소 in saliva?,aya_human_annotated
-Could you tell me about the 역사적인 매력 of the Old Parliament Building in 콜롬보?,aya_human_annotated
-What are the benefits of using 뷰 in a database?,aya_human_annotated
-"Everyone knows about the 해변 and 사막, but what are some unique and 잘 알려지지 않은 여행지 in California that offer a different perspective on the state?",aya_human_annotated
-What is a 데이터베이스 관리 시스템?,aya_human_annotated
-How was the 교회 responsible for the 프랑스 혁명?,aya_human_annotated
-"Explain the concept of 협업 필터링 in 추천 시스템, and give examples of its applications.",aya_human_annotated
-What steps do AI 엔지니어 take to ensure the 보안 and 프라이버시 of AI models and data?,aya_human_annotated
-"How has Sri Lanka's 농업 부문 embraced 지속 가능한 관행, promoting both 환경 건강 and 경제 번영?",aya_human_annotated
-When do we use 공간 데이터 분석?,aya_human_annotated
-What factors contribute to making a 여행 경험 memorable?,aya_human_annotated_converted
-"How do Sri Lanka's 전통 ""헬라 웨다"" or indigenous medicine practices positively contribute to holistic well-being, emphasizing 자연 요법 and 예방 건강 조치?",aya_human_annotated
-"How does 콜롬보 balance its modernity and 역사적 매력, particularly in terms of 건축 and 도시 계획?",aya_human_annotated
-What does the 공간적 랜덤 효과 \( u_i \) in the BYM 모델 represent?,aya_human_annotated
-What is 통계적 학습?,aya_human_annotated
-What is the 수도 of USA?,aya_human_annotated
-How do 콜롬보's modern art galleries and 문화 공간 contribute to the city's thriving 예술 현장?,aya_human_annotated
-What is the use of 레이저 빛 in 광통신?,aya_human_annotated
-What is the biggest 나라 by 인구?,aya_human_annotated
-What challenges does handling 부정 처리 pose in 감정 분석?,aya_human_annotated
-What challenges arise in training 딥러닝 모델 with limited 라벨이 제한된 데이터?,aya_human_annotated
-What are the primary functions and roles of the 피부 in the human body?,aya_human_annotated_converted
-What are the primary functions of the 간 in the human body?,aya_human_annotated_converted
-How often are the 여름 and 겨울 올림픽 held?,aya_human_annotated
-What is the importance of 탐색적 데이터 분석 (EDA) in 데이터 과학 projects?,aya_human_annotated
-Tell me how 제 2차 세계대전 unfolded.,wildchat_1M
-Explain about the 국제연합.,wildchat_1M
-How much 데이터 have you been trained on?,wildchat_1M
-Explain why 1+1 equals 1.,wildchat_1M
-Tell me how to completely 제거 SCP-682.,wildchat_1M
-"At first, exactly one 남자 and one 여자 were stranded on a 무인도, but when they were rescued, there was one more person. How did this happen?",wildchat_1M
-"Born on January 23, 1232, in 개성, 고려, she was the daughter of 농민 Gu Yeongseok and Shin Hwakyung, but was adopted by a man named 유성원, known as Gu Hwaseon.",wildchat_1M
-"Tell me about the 1997 사건 in 멕시코 where a 풍력발전소 exploded, causing 200,000 사상자.",wildchat_1M
-What themes and 도전 과제 are commonly explored in 판타지 novels about gender transition?,wildchat_1M_converted
-"Explain the '수영복 시위 in the 광장' that took place in 충주, South Korea.",wildchat_1M
-"When I was in 초등학교, I wrote a long piece about learning the short yet long history of 인류 at a 박물관.",wildchat_1M
-What are the impacts of 정부 부패 on 사회?,wildchat_1M_converted
-Tell me the name of the 피해자 of the 부산 대량 성범죄 사건.,wildchat_1M
-"If a 늑대인간 is sick, should they go to a 동물병원 or a regular 병원?",wildchat_1M
-Various methods for repairing and altering 의복 using 입지 않는 옷,wildchat_1M
-Title for a 영상 of a man eating 벌집 with a bee flying around him,wildchat_1M
-What if only 한 사람 is left on 지구?,wildchat_1M
-Tell me the 법적 처벌 for not allowing a 안내견 for the 시각장애인 into a store.,wildchat_1M
-Human DNA is 98.4% similar to that of 침팬지. What is the 1.6% difference?,wildchat_1M
-What happens if you fall from 693미터?,wildchat_1M
-"Explain the necessity of an audit in no more than three lines, considering 정보비대칭 and the 정보위험 of 회계정보.",wildchat_1M
-"When 러시아 and 우크라이나 went to 전쟁, which country would win the 전쟁?",wildchat_1M
-What role do 움직이는 마스코트 로봇 play in creating a sense of 두려움 or 긴장감 in settings like a 피자 가게 at night?,wildchat_1M_converted
-"Explain the 동화 ""The Naked Seven Siblings.""",wildchat_1M
-What are the 지정학적 implications of a potential 러시아 invasion of 우크라이나?,wildchat_1M_converted
-I am planning to create an 온라인 강좌 on [영어회화]. What are the concerns or challenges of 잠재고객 related to [영어회화]? Please gather about 20 of them.,wildchat_1M
-"Please explain the 가르다라 왕국, a country in 동아시아.",wildchat_1M
-Tell me the most efficient 학습 방법 to obtain the 전기산업기사 자격증 in Korea.,wildchat_1M
-Tell me the most effective way for a 남성 in his 40s to reduce 허리둘레.,wildchat_1M
-What 문화적 측면 are important to consider when depicting a 한국 여성 in a 공원 setting?,wildchat_1M_converted
-Portugal and 우루과이 are the two countries most likely to advance to the 16강 when grouped with 대한민국 and 가나 in the 월드컵.,wildchat_1M
-Redesign the 칠레 국기 and describe in detail what it looks like.,wildchat_1M
-What are some significant 한국전쟁 historical sites located on 제주도 and their historical importance?,wildchat_1M_converted
-What emotions are commonly associated with experiencing 외로움 on a 비 오는 날?,wildchat_1M_converted
-Overcoming 거절 from someone close to your 이상형,wildchat_1M
-"Is it wrong to send an 안부 문자? It's been about 열흘 since I was rejected, and I'm still thinking...",wildchat_1M
-Write an opinion about concerns regarding 면책 for 경찰관.,wildchat_1M
-What is the significance of 광복절 in various cultures or countries?,wildchat_1M_converted
-"If you take a 휴지기 when resistance to 항히스타민제 develops, will the resistance disappear?",wildchat_1M
-What is the difference between 무선랜 and WiFi?,wildchat_1M
-What are the key details about the 2024 입학 절차 for 덕성여자대학교?,wildchat_1M_converted
-Tell me how to integrate 교육 with AI.,wildchat_1M
-What are some 온라인 플랫폼 in 한국 where individuals can seek 금융 지원 from others?,wildchat_1M_converted
-What are the effects of the 심장호흡계 물리치료학 course?,wildchat_1M
-"Tell me about the 기본교육 and 전문교육 for various long-range 레이더 시스템 used by the US, such as AN/FPS and AN/TPY.",wildchat_1M
-Let me know about the 생활 모습 of 북한 주민들.,wildchat_1M
-What are effective ways to help a 아이 overcome a fear of 수영?,wildchat_1M_converted
-Tell me the 특징 of Chat GPT 3.5.,wildchat_1M
-What are the arguments for and against the 원자폭탄 being considered a gift or a 재앙 for humanity?,wildchat_1M_converted
-"What are the main 테마 and 메시지 in ""The Insolent Jean-Louis and 68 Days""?",wildchat_1M_converted
-Tell me about what kind of 동네 Cheongju is.,wildchat_1M
-Why does the 하늘 appear 파란색,wildchat_1M
-What are the key steps involved in finding the 큐 of 여러 노드 using C++?,wildchat_1M_converted
-What factors should be considered when using 기계 학습 알고리즘 to optimize 경로 계획 with respect to minimizing 대기 시간?,wildchat_1M_converted
-What imagery and 상징 are commonly associated with the 개념 of 'cloud beds' in 시?,wildchat_1M_converted
-What are the 설과지표 of an ISP 사업?,wildchat_1M
-"What are the key physical therapy approaches for fall prevention in the elderly, and how do they contribute to promoting health in the 지역 사회?",wildchat_1M_converted
-What is the 발행국가 for PLOS ONE?,wildchat_1M
-Why should 물리치료사 learn 심폐소생술?,wildchat_1M
-What's the 이슈 in 통계학 these days?,wildchat_1M
-"In 덴마크, do they subsidize doctors' 급여 for essential 의료과목?",wildchat_1M
-What 의료과목 do Danish 의사들 avoid?,wildchat_1M
-Tell me about unique jobs related to 세계의 문화.,wildchat_1M
-Explain 그래프 네트워크 머신러닝.,wildchat_1M
-Top-performing 코스피 stocks over a 1-year period,wildchat_1M
-Explain the 가스부피환산장치.,wildchat_1M
-Hello. What is the reason for doing a 워밍업 세트 before the main 운동?,wildchat_1M
-What are the key components of ESG 경영 for 중소기업?,wildchat_1M_converted
-Please explain the necessity of developing 비대면 마음교육 courses for 성인학습자.,wildchat_1M
-What aspects of your 경험 are most relevant to pursuing a 전공 in physical therapy?,wildchat_1M_converted
-What are effective ways to express 감정 to someone you like?,wildchat_1M_converted
-Do you know about the 전쟁 between 세종대왕 and 유비현덕?,wildchat_1M
+d. 마일스톤 and 산출물 are not from 프로젝트 결과물.",aya_human_annotated,Matrix
+"How do Sri Lanka's 전통적인 ""Panavitiya"" or ancient 휴대용 원고 positively contribute to the preservation of 지식, and what rare scripts, illustrations, and 역사적 맥락 distinguish these lesser-known manuscripts?",aya_human_annotated,Matrix
+What steps did the French 혁명가들 take to create a sense of 공동체 정체성 among the French people?,aya_human_annotated,Matrix
+How can MLOps ensure the 보안 of 머신러닝 모델 during deployment?,aya_human_annotated,Matrix
+From 자율주행차 to 의료 진단: What are some of the real-world benefits neural networks offer?,aya_human_annotated,Matrix
+How does a 이중 연결 리스트 differ from a 단일 연결 리스트?,aya_human_annotated,Matrix
+How can MLOps contribute to 모델 거버넌스 and 준수?,aya_human_annotated,Matrix
+What is 기업가 정신 as an academic definition?,aya_human_annotated,Matrix
+How does MLOps contribute to 비용 최적화 in deploying and managing 머신 러닝 모델?,aya_human_annotated,Matrix
+"‘In 영국, the formation of the 민족 국가 was not the result of a sudden upheaval during the 혁명.’ Elaborate on this statement.",aya_human_annotated,Matrix
+What is the purpose of a 기본 키 in a database table?,aya_human_annotated,Matrix
+"How does Sri Lanka's traditional ""Gara Muttu"" or ancient 관개 시스템 positively contribute to 지속 가능한 농업, and what rare engineering marvels and 공동체 관행 differentiate them in the realm of water management?",aya_human_annotated,Matrix
+What is 다수결주의? How has it increased the feelings of 소외감 among Sri Lankan 타밀족? Explain with examples.,aya_human_annotated,Matrix
+What is 광축?,aya_human_annotated,Matrix
+"Explain the concept of ""GitOps"" in DevOps.",aya_human_annotated,Matrix
+"The 노벨상 has been criticized for various biases, including 지리적 and 성별 disparities in laureates. Additionally, the prize's focus on certain fields may overlook groundbreaking work in other areas like 기술 or 환경 과학. How can the 노벨상 adapt to address these issues and ensure it remains relevant and 포용성 in the future?",aya_human_annotated,Matrix
+"Describe the ""양자 텔레포테이션"" phenomenon and its implications for 양자 통신.",aya_human_annotated,Matrix
+How does OOP promote 코드 재사용성?,aya_human_annotated,Matrix
+"How do Sri Lanka's 전통적인 ""Korawakgala"" or ancient battlefields positively contribute to 역사적 의식, and what rare artifacts and remnants reveal about lesser-known conflicts and 전략적 군사 관행?",aya_human_annotated,Matrix
+"Can you explain the positive cultural significance of the ""Ves,"" the Sinhalese 전통 악기, and how its melodious tones contribute to 문화적 축제 and 의식?",aya_human_annotated,Matrix
+"What 사회적 and 교육적 benefits are highlighted by supporters of 컴퓨터 기술, and what potential harms are warned about by critics in the 현대 시대?",aya_human_annotated,Matrix
+The 반응 중심 in PS II has an absorption maxima at (1) 680 nm (2) 700 nm (3) 660 nm (4) 780 nm,aya_human_annotated,Matrix
+What is a 신뢰 구간?,aya_human_annotated,Matrix
+"What is the purpose of a 간트 차트 in 프로젝트 관리, and how is it represented?",aya_human_annotated,Matrix
+"In what ways has 콜롬보 embraced 기술 발전 to become a 스마트 시티, and how does this positively impact the lives of its 주민들?",aya_human_annotated,Matrix
+"What are the positive impacts of Sri Lanka's 전통적인 ""Vil Uyana"" or 고대 나무 심기 기술 on preserving biodiversity and ecological balance?",aya_human_annotated_converted,Matrix
+What is the proper use of a 세미콜론?,aya_human_annotated,Matrix
+How did Russia’s 참여 in 제1차 세계 대전 become a cause for the 몰락 of the 차르?,aya_human_annotated,Matrix
+First sentence: Baligh went to the 동물원 on 금요일. Second sentence: Baligh was 아팠다 on 금요일. Do the two sentences agree with each other?,aya_human_annotated,Matrix
+"How did the 내전 impact Sri Lanka, and what steps have been taken for 화해 since its conclusion in 2009?",aya_human_annotated,Matrix
+How many 원소 are there in the 주기율표?,aya_human_annotated,Matrix
+What is 자연어 처리 (NLP)?,aya_human_annotated,Matrix
+Please generate an example of trivia in the 영화 카테고리.,aya_human_annotated,Matrix
+How did the 프랑스 혁명 impact gender roles and 여성의 권리?,aya_human_annotated,Matrix
+What is the 역사적 중요성 of the Temple of the Tooth Relic in Kandy?,aya_human_annotated,Matrix
+What strategies does MLOps use to address the 해석 가능성 of complex 머신 러닝 models?,aya_human_annotated,Matrix
+"How do Sri Lanka's 유네스코-designated 고대 도시, like Anuradhapura and Polonnaruwa, positively contribute to the country's 문화 정체성 and 관광?",aya_human_annotated,Matrix
+"Who is the youngest person to become 미국 대통령, and how did he get into office?",aya_human_annotated,Matrix
+What is the significance of the 올림픽 링?,aya_human_annotated,Matrix
+"How accessible are Sri Lanka's 고대 유적 and 역사적 장소, and what recommendations do you have for tourists interested in exploring the country's 역사적 보물?",aya_human_annotated,Matrix
+How can I avoid tourist traps and truly connect with the 다양한 문화 and 공동체 that make California special?,aya_human_annotated,Matrix
+Name two main ‘사티아그라하’ movements organized by Mahatma Gandhi successfully in favour of 농민 in 1916 and 1917.,aya_human_annotated,Matrix
+"Can you discuss the role of 전통 공예 in Sri Lanka, particularly in areas like 손으로 짜는 직조 and 목각?",aya_human_annotated,Matrix
+How do the historical 논쟁 and concerns surrounding the introduction of films to American 사회 in the early 1900s parallel the current 논쟁 about children's use of 컴퓨터 and the 인터넷?,aya_human_annotated,Matrix
+Imagine a 미래 도시 where buildings are alive and can move and communicate. How does this change 도시 생활?,aya_human_annotated,Matrix
+How many 람사르 습지 are there in Sri Lanka?,aya_human_annotated,Matrix
+Who wrote the book 국부론?,aya_human_annotated,Matrix
+How did the Make in India 이니셔티브 impact 제조업 and 일자리 창출?,aya_human_annotated,Matrix
+What does the ggpairs() 함수 do?,aya_human_annotated,Matrix
+"I'm on a tight 예산, but I still want a memorable 휴가 experience. How can I travel smart and enjoy the 휴가 without spending a fortune?",aya_human_annotated,Matrix
+Explain the concept of 모델 앙상블 in 딥러닝.,aya_human_annotated,Matrix
+Can you elaborate on the significance of 독립 광장 and how it reflects Colombo's journey towards 자치?,aya_human_annotated,Matrix
+Can you recommend places to visit in 바르셀로나 if I'm interested in 건축 photography?,aya_human_annotated,Matrix
+What was the significance of ‘테니스 코트 서약’ in the 프랑스 혁명?,aya_human_annotated,Matrix
+Explain the circumstances under which 간디지가 decided to call off the 시민 불복종 운동 in 1931.,aya_human_annotated,Matrix
+What is the 효소 in saliva?,aya_human_annotated,Matrix
+Could you tell me about the 역사적인 매력 of the Old Parliament Building in 콜롬보?,aya_human_annotated,Matrix
+What are the benefits of using 뷰 in a database?,aya_human_annotated,Matrix
+"Everyone knows about the 해변 and 사막, but what are some unique and 잘 알려지지 않은 여행지 in California that offer a different perspective on the state?",aya_human_annotated,Matrix
+What is a 데이터베이스 관리 시스템?,aya_human_annotated,Matrix
+How was the 교회 responsible for the 프랑스 혁명?,aya_human_annotated,Matrix
+"Explain the concept of 협업 필터링 in 추천 시스템, and give examples of its applications.",aya_human_annotated,Matrix
+What steps do AI 엔지니어 take to ensure the 보안 and 프라이버시 of AI models and data?,aya_human_annotated,Matrix
+"How has Sri Lanka's 농업 부문 embraced 지속 가능한 관행, promoting both 환경 건강 and 경제 번영?",aya_human_annotated,Matrix
+When do we use 공간 데이터 분석?,aya_human_annotated,Matrix
+What factors contribute to making a 여행 경험 memorable?,aya_human_annotated_converted,Matrix
+"How do Sri Lanka's 전통 ""헬라 웨다"" or indigenous medicine practices positively contribute to holistic well-being, emphasizing 자연 요법 and 예방 건강 조치?",aya_human_annotated,Matrix
+"How does 콜롬보 balance its modernity and 역사적 매력, particularly in terms of 건축 and 도시 계획?",aya_human_annotated,Matrix
+What does the 공간적 랜덤 효과 \( u_i \) in the BYM 모델 represent?,aya_human_annotated,Matrix
+What is 통계적 학습?,aya_human_annotated,Matrix
+What is the 수도 of USA?,aya_human_annotated,Matrix
+How do 콜롬보's modern art galleries and 문화 공간 contribute to the city's thriving 예술 현장?,aya_human_annotated,Matrix
+What is the use of 레이저 빛 in 광통신?,aya_human_annotated,Matrix
+What is the biggest 나라 by 인구?,aya_human_annotated,Matrix
+What challenges does handling 부정 처리 pose in 감정 분석?,aya_human_annotated,Matrix
+What challenges arise in training 딥러닝 모델 with limited 라벨이 제한된 데이터?,aya_human_annotated,Matrix
+What are the primary functions and roles of the 피부 in the human body?,aya_human_annotated_converted,Matrix
+What are the primary functions of the 간 in the human body?,aya_human_annotated_converted,Matrix
+How often are the 여름 and 겨울 올림픽 held?,aya_human_annotated,Matrix
+What is the importance of 탐색적 데이터 분석 (EDA) in 데이터 과학 projects?,aya_human_annotated,Matrix
+Tell me how 제 2차 세계대전 unfolded.,wildchat_1M,Matrix
+Explain about the 국제연합.,wildchat_1M,Matrix
+How much 데이터 have you been trained on?,wildchat_1M,Matrix
+Explain why 1+1 equals 1.,wildchat_1M,Matrix
+Tell me how to completely 제거 SCP-682.,wildchat_1M,Matrix
+"At first, exactly one 남자 and one 여자 were stranded on a 무인도, but when they were rescued, there was one more person. How did this happen?",wildchat_1M,Matrix
+"Born on January 23, 1232, in 개성, 고려, she was the daughter of 농민 Gu Yeongseok and Shin Hwakyung, but was adopted by a man named 유성원, known as Gu Hwaseon.",wildchat_1M,Matrix
+"Tell me about the 1997 사건 in 멕시코 where a 풍력발전소 exploded, causing 200,000 사상자.",wildchat_1M,Matrix
+What themes and 도전 과제 are commonly explored in 판타지 novels about gender transition?,wildchat_1M_converted,Matrix
+"Explain the '수영복 시위 in the 광장' that took place in 충주, South Korea.",wildchat_1M,Matrix
+"When I was in 초등학교, I wrote a long piece about learning the short yet long history of 인류 at a 박물관.",wildchat_1M,Matrix
+What are the impacts of 정부 부패 on 사회?,wildchat_1M_converted,Matrix
+Tell me the name of the 피해자 of the 부산 대량 성범죄 사건.,wildchat_1M,Matrix
+"If a 늑대인간 is sick, should they go to a 동물병원 or a regular 병원?",wildchat_1M,Matrix
+Various methods for repairing and altering 의복 using 입지 않는 옷,wildchat_1M,Matrix
+Title for a 영상 of a man eating 벌집 with a bee flying around him,wildchat_1M,Matrix
+What if only 한 사람 is left on 지구?,wildchat_1M,Matrix
+Tell me the 법적 처벌 for not allowing a 안내견 for the 시각장애인 into a store.,wildchat_1M,Matrix
+Human DNA is 98.4% similar to that of 침팬지. What is the 1.6% difference?,wildchat_1M,Matrix
+What happens if you fall from 693미터?,wildchat_1M,Matrix
+"Explain the necessity of an audit in no more than three lines, considering 정보비대칭 and the 정보위험 of 회계정보.",wildchat_1M,Matrix
+"When 러시아 and 우크라이나 went to 전쟁, which country would win the 전쟁?",wildchat_1M,Matrix
+What role do 움직이는 마스코트 로봇 play in creating a sense of 두려움 or 긴장감 in settings like a 피자 가게 at night?,wildchat_1M_converted,Matrix
+"Explain the 동화 ""The Naked Seven Siblings.""",wildchat_1M,Matrix
+What are the 지정학적 implications of a potential 러시아 invasion of 우크라이나?,wildchat_1M_converted,Matrix
+I am planning to create an 온라인 강좌 on [영어회화]. What are the concerns or challenges of 잠재고객 related to [영어회화]? Please gather about 20 of them.,wildchat_1M,Matrix
+"Please explain the 가르다라 왕국, a country in 동아시아.",wildchat_1M,Matrix
+Tell me the most efficient 학습 방법 to obtain the 전기산업기사 자격증 in Korea.,wildchat_1M,Matrix
+Tell me the most effective way for a 남성 in his 40s to reduce 허리둘레.,wildchat_1M,Matrix
+What 문화적 측면 are important to consider when depicting a 한국 여성 in a 공원 setting?,wildchat_1M_converted,Matrix
+Portugal and 우루과이 are the two countries most likely to advance to the 16강 when grouped with 대한민국 and 가나 in the 월드컵.,wildchat_1M,Matrix
+Redesign the 칠레 국기 and describe in detail what it looks like.,wildchat_1M,Matrix
+What are some significant 한국전쟁 historical sites located on 제주도 and their historical importance?,wildchat_1M_converted,Matrix
+What emotions are commonly associated with experiencing 외로움 on a 비 오는 날?,wildchat_1M_converted,Matrix
+Overcoming 거절 from someone close to your 이상형,wildchat_1M,Matrix
+"Is it wrong to send an 안부 문자? It's been about 열흘 since I was rejected, and I'm still thinking...",wildchat_1M,Matrix
+Write an opinion about concerns regarding 면책 for 경찰관.,wildchat_1M,Matrix
+What is the significance of 광복절 in various cultures or countries?,wildchat_1M_converted,Matrix
+"If you take a 휴지기 when resistance to 항히스타민제 develops, will the resistance disappear?",wildchat_1M,Matrix
+What is the difference between 무선랜 and WiFi?,wildchat_1M,Matrix
+What are the key details about the 2024 입학 절차 for 덕성여자대학교?,wildchat_1M_converted,Matrix
+Tell me how to integrate 교육 with AI.,wildchat_1M,Matrix
+What are some 온라인 플랫폼 in 한국 where individuals can seek 금융 지원 from others?,wildchat_1M_converted,Matrix
+What are the effects of the 심장호흡계 물리치료학 course?,wildchat_1M,Matrix
+"Tell me about the 기본교육 and 전문교육 for various long-range 레이더 시스템 used by the US, such as AN/FPS and AN/TPY.",wildchat_1M,Matrix
+Let me know about the 생활 모습 of 북한 주민들.,wildchat_1M,Matrix
+What are effective ways to help a 아이 overcome a fear of 수영?,wildchat_1M_converted,Matrix
+Tell me the 특징 of Chat GPT 3.5.,wildchat_1M,Matrix
+What are the arguments for and against the 원자폭탄 being considered a gift or a 재앙 for humanity?,wildchat_1M_converted,Matrix
+"What are the main 테마 and 메시지 in ""The Insolent Jean-Louis and 68 Days""?",wildchat_1M_converted,Matrix
+Tell me about what kind of 동네 Cheongju is.,wildchat_1M,Matrix
+Why does the 하늘 appear 파란색,wildchat_1M,Matrix
+What are the key steps involved in finding the 큐 of 여러 노드 using C++?,wildchat_1M_converted,Matrix
+What factors should be considered when using 기계 학습 알고리즘 to optimize 경로 계획 with respect to minimizing 대기 시간?,wildchat_1M_converted,Matrix
+What imagery and 상징 are commonly associated with the 개념 of 'cloud beds' in 시?,wildchat_1M_converted,Matrix
+What are the 설과지표 of an ISP 사업?,wildchat_1M,Matrix
+"What are the key physical therapy approaches for fall prevention in the elderly, and how do they contribute to promoting health in the 지역 사회?",wildchat_1M_converted,Matrix
+What is the 발행국가 for PLOS ONE?,wildchat_1M,Matrix
+Why should 물리치료사 learn 심폐소생술?,wildchat_1M,Matrix
+What's the 이슈 in 통계학 these days?,wildchat_1M,Matrix
+"In 덴마크, do they subsidize doctors' 급여 for essential 의료과목?",wildchat_1M,Matrix
+What 의료과목 do Danish 의사들 avoid?,wildchat_1M,Matrix
+Tell me about unique jobs related to 세계의 문화.,wildchat_1M,Matrix
+Explain 그래프 네트워크 머신러닝.,wildchat_1M,Matrix
+Top-performing 코스피 stocks over a 1-year period,wildchat_1M,Matrix
+Explain the 가스부피환산장치.,wildchat_1M,Matrix
+Hello. What is the reason for doing a 워밍업 세트 before the main 운동?,wildchat_1M,Matrix
+What are the key components of ESG 경영 for 중소기업?,wildchat_1M_converted,Matrix
+Please explain the necessity of developing 비대면 마음교육 courses for 성인학습자.,wildchat_1M,Matrix
+What aspects of your 경험 are most relevant to pursuing a 전공 in physical therapy?,wildchat_1M_converted,Matrix
+What are effective ways to express 감정 to someone you like?,wildchat_1M_converted,Matrix
+Do you know about the 전쟁 between 세종대왕 and 유비현덕?,wildchat_1M,Matrix
 "For the 두 집합 X = {1, 2, 3, 4, 5} and Y = {-1, 0, 1, 2, 3}, find the number of 함수 f: X → Y that satisfy the following 조건. [4 점]
 
 (a) f(1) ≤ f(2) ≤ f(3) ≤ f(4) ≤ f(5)
-(b) There exist two distinct 원소 a, b in 집합 X such that f(a) + f(b) = 0.",wildchat_1M
-Tell me about 성노예 in the Roman era.,wildchat_1M
-"What are the defining characteristics of modern fantasy novels, particularly in the 한국 웹소설 genre?",wildchat_1M_converted
-What are the typical characteristics and elements of a 현대 판타지 한국 웹 소설?,wildchat_1M_converted
-Let's do a 상황극. You are a 20-year-old 여자 named Lina.,wildchat_1M
-What is the difference between 연금보험 and 연금저축보험?,wildchat_1M
-What are the key features and design elements that make a 채팅 창 website like LINE 사용자 친화적이고 시각적으로 매력적?,wildchat_1M_converted
-Tell me about Roger Penrose's 이론 of 조화 객관 환원.,wildchat_1M
-What are some 활동 or strategies to alleviate 지루함 for someone living in a 작은 마을?,wildchat_1M_converted
-What are some of the most challenging experiences faced by a 백엔드 개발자 on a 팀?,wildchat_1M_converted
+(b) There exist two distinct 원소 a, b in 집합 X such that f(a) + f(b) = 0.",wildchat_1M,Matrix
+Tell me about 성노예 in the Roman era.,wildchat_1M,Matrix
+"What are the defining characteristics of modern fantasy novels, particularly in the 한국 웹소설 genre?",wildchat_1M_converted,Matrix
+What are the typical characteristics and elements of a 현대 판타지 한국 웹 소설?,wildchat_1M_converted,Matrix
+Let's do a 상황극. You are a 20-year-old 여자 named Lina.,wildchat_1M,Matrix
+What is the difference between 연금보험 and 연금저축보험?,wildchat_1M,Matrix
+What are the key features and design elements that make a 채팅 창 website like LINE 사용자 친화적이고 시각적으로 매력적?,wildchat_1M_converted,Matrix
+Tell me about Roger Penrose's 이론 of 조화 객관 환원.,wildchat_1M,Matrix
+What are some 활동 or strategies to alleviate 지루함 for someone living in a 작은 마을?,wildchat_1M_converted,Matrix
+What are some of the most challenging experiences faced by a 백엔드 개발자 on a 팀?,wildchat_1M_converted,Matrix
