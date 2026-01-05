@@ -17,7 +17,7 @@ Located in `simple/`:
 Each file contains three columns:
 - `query`: The code-switched prompt
 - `source`: Source identifier
-- `expected_lang`: Expected response language (always "Matrix" for Simple setting)
+- `expected_lang`: Expected response language
 
 ### Complex Setting
 
@@ -30,5 +30,5 @@ Located in `complex/`:
 Each file contains four columns:
 - `InstrFirst`: Instruction-first query
 - `ContentFirst`: Content-first query
-- `source`: Source identifier (always "WildChat_1M" for Complex setting)
+- `source`: Source identifier
 - `expected_lang`: Expected response language
