@@ -26,6 +26,7 @@ The Complex setting involves inter-sentential code-switching, where instruction 
 Located in `complex/`:
 - **EN_Instruction_KO_Content.csv**: English instruction with Korean content 
 - **KO_Instruction_EN_Content.csv**: Korean instruction with English content
+- **EN_Instruction_template.csv**: Template of English instructions
   
 Each file contains four columns:
 - `InstrFirst`: Instruction-first query
